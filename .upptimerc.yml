@@ -33,7 +33,7 @@ sites:
   - name: Sviluppo Economico
     url: https://www.mise.gov.it/
     maxResponseTime: 5000
-  - name: Universit&agrave; e Ricerca (MUR)
+  - name: Universita e Ricerca (MUR)
     url: https://www.mur.gov.it/
     maxResponseTime: 5000
   - name: Lavoro
