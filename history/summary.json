@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/www.salute.gov.it",
     "slug": "salute",
     "status": "down",
-    "uptime": "2.66%",
-    "uptimeDay": "2.66%",
-    "uptimeWeek": "2.66%",
-    "uptimeMonth": "2.66%",
-    "uptimeYear": "2.66%",
+    "uptime": "1.85%",
+    "uptimeDay": "1.85%",
+    "uptimeWeek": "1.85%",
+    "uptimeMonth": "1.85%",
+    "uptimeYear": "1.85%",
     "time": 827,
     "timeDay": 827,
     "timeWeek": 827,
     "timeMonth": 827,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2021-04-26": 151
+      "2021-04-26": 219
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
     "status": "degraded",
-    "uptime": "0.22%",
-    "uptimeDay": "0.22%",
-    "uptimeWeek": "0.22%",
-    "uptimeMonth": "0.22%",
-    "uptimeYear": "0.22%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 7073,
     "timeDay": 7073,
     "timeWeek": 7073,
     "timeMonth": 7073,
     "timeYear": 7073,
     "dailyMinutesDown": {
-      "2021-04-26": 150
+      "2021-04-26": 219
     }
   },
   {
@@ -98,18 +98,20 @@
     "url": "https://www.giustizia.it/",
     "icon": "https://favicons.githubusercontent.com/www.giustizia.it",
     "slug": "giustizia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 1591,
     "timeDay": 1591,
     "timeWeek": 1591,
     "timeMonth": 1591,
     "timeYear": 1591,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-26": 1
+    }
   },
   {
     "name": "Interno",
