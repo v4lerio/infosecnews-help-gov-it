@@ -27,6 +27,21 @@ sites:
   - name: Difesa
     url: https://www.difesa.it/
     maxResponseTime: 5000
+  - name: Economia e Finance (MEF)
+    url: https://www.mef.gov.it/
+    maxResponseTime: 5000
+  - name: Sviluppo Economico
+    url: https://www.mise.gov.it/
+    maxResponseTime: 5000
+  - name: Universit&agrave; e Ricerca (MUR)
+    url: https://www.mur.gov.it/
+    maxResponseTime: 5000
+  - name: Lavoro
+    url: https://www.lavoro.gov.it/
+    maxResponseTime: 5000
+  - name: Infrastrutture e Trasporti
+    url: https://www.mit.gov.it/
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -36,7 +51,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: HelpGovIT
   introTitle: "***HelpGovIT*** - Micro progetto di supporto informativo."
-  introMessage: Di seguito lo status dei portali web dei ministeri Italiani al servizio del cittadino...
+  introMessage: "Di seguito lo status dei portali web dei ministeri Italiani al servizio del cittadino..."
   navbar:
     - title: Status
       href: /
