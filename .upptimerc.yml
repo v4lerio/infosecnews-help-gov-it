@@ -13,7 +13,7 @@ sites:
     url: https://www.governo.it/
     maxResponseTime: 5000
   - name: Salute
-    url: http://www.salute.gov.it/
+    url: https://www.salute.gov.it/
     maxResponseTime: 5000
   - name: Esteri
     url: https://www.esteri.it/
