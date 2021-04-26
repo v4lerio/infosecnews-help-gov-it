@@ -1,6 +1,6 @@
 # [📈 Live Status](https://v4lerio.github.io/infosecnews-help-gov-it): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Italian Ministers Public WebSites](https://v4lerio.github.io/infosecnews-help-gov-it), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for Public Websites of Italian government entities, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/v4lerio/infosecnews-help-gov-it/workflows/Uptime%20CI/badge.svg)](https://github.com/v4lerio/infosecnews-help-gov-it/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/v4lerio/infosecnews-help-gov-it/workflows/Response%20Time%20CI/badge.svg)](https://github.com/v4lerio/infosecnews-help-gov-it/actions?query=workflow%3A%22Response+Time+CI%22)
