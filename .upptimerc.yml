@@ -15,6 +15,18 @@ sites:
   - name: Salute
     url: http://www.salute.gov.it/
     maxResponseTime: 5000
+  - name: Esteri
+    url: https://www.esteri.it/
+    maxResponseTime: 5000
+  - name: Giustizia
+    url: https://www.giustizia.it/
+    maxResponseTime: 5000
+  - name: Interno
+    url: https://www.interno.gov.it/
+    maxResponseTime: 5000
+  - name: Difesa
+    url: https://www.difesa.it/
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,7 +35,7 @@ status-website:
   baseUrl: /infosecnews-help-gov-it
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: HelpGovIT
-  introTitle: "***HelpGovIT888 - Micro progetto di supporto informativo."
+  introTitle: "***HelpGovIT*** - Micro progetto di supporto informativo."
   introMessage: Di seguito lo status dei portali web dei ministeri Italiani al servizio del cittadino...
   navbar:
     - title: Status
