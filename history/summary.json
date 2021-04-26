@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/www.salute.gov.it",
     "slug": "salute",
     "status": "down",
-    "uptime": "0.72%",
-    "uptimeDay": "0.72%",
-    "uptimeWeek": "0.72%",
-    "uptimeMonth": "0.72%",
-    "uptimeYear": "0.72%",
+    "uptime": "0.71%",
+    "uptimeDay": "0.71%",
+    "uptimeWeek": "0.71%",
+    "uptimeMonth": "0.71%",
+    "uptimeYear": "0.71%",
     "time": 827,
     "timeDay": 827,
     "timeWeek": 827,
     "timeMonth": 827,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2021-04-26": 573
+      "2021-04-26": 580
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "up",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
-    "time": 6833,
-    "timeDay": 6833,
-    "timeWeek": 6833,
-    "timeMonth": 6833,
-    "timeYear": 6833,
+    "status": "down",
+    "uptime": "1.12%",
+    "uptimeDay": "1.12%",
+    "uptimeWeek": "1.12%",
+    "uptimeMonth": "1.12%",
+    "uptimeYear": "1.12%",
+    "time": 6241,
+    "timeDay": 6241,
+    "timeWeek": 6241,
+    "timeMonth": 6241,
+    "timeYear": 6241,
     "dailyMinutesDown": {
-      "2021-04-26": 572
+      "2021-04-26": 573
     }
   },
   {
