@@ -42,6 +42,15 @@ sites:
   - name: Infrastrutture e Trasporti
     url: https://www.mit.gov.it/
     maxResponseTime: 5000
+  - name: Politiche Agricole
+    url: https://www.politicheagricole.it/
+    maxResponseTime: 5000
+  - name: Ambiente
+    url: https://www.minambiente.it/
+    maxResponseTime: 5000
+  - name: Beni Culturali
+    url: https://www.beniculturali.it/
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
