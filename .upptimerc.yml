@@ -27,6 +27,7 @@ sites:
   - name: Difesa
     url: https://www.difesa.it/
     maxResponseTime: 5000
+    __dangerous__disable_verify_peer: true
   - name: Economia e Finance (MEF)
     url: https://www.mef.gov.it/
     maxResponseTime: 5000
