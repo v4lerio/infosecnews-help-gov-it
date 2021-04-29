@@ -145,7 +145,7 @@
     "slug": "difesa",
     "status": "down",
     "uptime": "79.43%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "79.43%",
     "uptimeMonth": "79.43%",
     "uptimeYear": "79.43%",
@@ -155,7 +155,7 @@
     "timeMonth": 1845,
     "timeYear": 1845,
     "dailyMinutesDown": {
-      "2021-04-29": 0,
+      "2021-04-29": 1,
       "2021-04-28": 492,
       "2021-04-27": 396
     }
