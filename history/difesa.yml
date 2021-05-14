@@ -1,7 +1,7 @@
 url: https://www.difesa.it/
-status: up
-code: 200
-responseTime: 2328
-lastUpdated: 2021-05-14T13:12:53.182Z
+status: degraded
+code: 404
+responseTime: 15627
+lastUpdated: 2021-05-14T13:40:17.168Z
 startTime: Mon Apr 26 2021 11:24:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
