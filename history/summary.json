@@ -285,19 +285,19 @@
     "url": "https://www.mur.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.mur.gov.it",
     "slug": "universita-e-ricerca-mur",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1775,
-    "timeDay": 9164,
-    "timeWeek": 3774,
-    "timeMonth": 2044,
-    "timeYear": 1775,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1768,
+    "timeDay": 6531,
+    "timeWeek": 3460,
+    "timeMonth": 2019,
+    "timeYear": 1768,
     "dailyMinutesDown": {
-      "2021-06-20": 1
+      "2021-06-20": 7
     }
   },
   {
