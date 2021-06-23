@@ -29,18 +29,18 @@
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
     "status": "up",
-    "uptime": "96.18%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "96.18%",
+    "uptime": "96.16%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "92.65%",
+    "uptimeYear": "96.16%",
     "time": 6834,
     "timeDay": 8376,
     "timeWeek": 7358,
     "timeMonth": 7503,
     "timeYear": 6834,
     "dailyMinutesDown": {
-      "2021-06-23": 22,
+      "2021-06-23": 15,
       "2021-06-22": 64,
       "2021-06-21": 34,
       "2021-06-20": 51,
@@ -62,7 +62,7 @@
       "2021-06-04": 84,
       "2021-06-03": 200,
       "2021-06-02": 203,
-      "2021-06-01": 230
+      "2021-06-01": 255
     }
   },
   {
@@ -111,19 +111,19 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "up",
-    "uptime": "86.29%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "86.29%",
+    "status": "degraded",
+    "uptime": "86.33%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "86.33%",
     "time": 5422,
-    "timeDay": 5374,
-    "timeWeek": 5344,
-    "timeMonth": 5281,
+    "timeDay": 5387,
+    "timeWeek": 5347,
+    "timeMonth": 5283,
     "timeYear": 5422,
     "dailyMinutesDown": {
-      "2021-06-23": 17,
+      "2021-06-23": 18,
       "2021-06-21": 34,
       "2021-06-19": 37,
       "2021-06-18": 41,
@@ -162,8 +162,7 @@
       "2021-05-04": 1268,
       "2021-05-03": 1381,
       "2021-05-02": 1227,
-      "2021-05-01": 1144,
-      "2021-04-30": 27
+      "2021-05-01": 1144
     }
   },
   {
@@ -180,7 +179,7 @@
     "time": 1695,
     "timeDay": 4413,
     "timeWeek": 3263,
-    "timeMonth": 1897,
+    "timeMonth": 1910,
     "timeYear": 1695,
     "dailyMinutesDown": {
       "2021-06-23": 34,
