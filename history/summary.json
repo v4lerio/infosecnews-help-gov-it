@@ -35,7 +35,7 @@
     "uptimeMonth": "93.11%",
     "uptimeYear": "96.45%",
     "time": 6860,
-    "timeDay": 8036,
+    "timeDay": 7871,
     "timeWeek": 7408,
     "timeMonth": 7556,
     "timeYear": 6860,
@@ -113,18 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
     "status": "up",
-    "uptime": "86.52%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "86.52%",
+    "uptime": "86.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "86.49%",
     "time": 5420,
-    "timeDay": 5343,
+    "timeDay": 5341,
     "timeWeek": 5346,
     "timeMonth": 5284,
     "timeYear": 5420,
     "dailyMinutesDown": {
-      "2021-06-24": 6,
       "2021-06-23": 17,
       "2021-06-21": 34,
       "2021-06-19": 37,
@@ -164,7 +163,8 @@
       "2021-05-04": 1268,
       "2021-05-03": 1381,
       "2021-05-02": 1227,
-      "2021-05-01": 1144
+      "2021-05-01": 1144,
+      "2021-04-30": 27
     }
   },
   {
@@ -293,10 +293,10 @@
     "url": "https://www.mur.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.mur.gov.it",
     "slug": "universita-e-ricerca-mur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1761,
@@ -304,7 +304,9 @@
     "timeWeek": 3656,
     "timeMonth": 2057,
     "timeYear": 1761,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-24": 1
+    }
   },
   {
     "name": "Lavoro",
