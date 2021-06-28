@@ -12,7 +12,7 @@
     "uptimeYear": "99.85%",
     "time": 1604,
     "timeDay": 1446,
-    "timeWeek": 1257,
+    "timeWeek": 1254,
     "timeMonth": 1350,
     "timeYear": 1604,
     "dailyMinutesDown": {
@@ -29,18 +29,18 @@
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
     "status": "up",
-    "uptime": "96.49%",
-    "uptimeDay": "77.63%",
-    "uptimeWeek": "94.50%",
-    "uptimeMonth": "92.76%",
-    "uptimeYear": "96.49%",
+    "uptime": "96.46%",
+    "uptimeDay": "77.98%",
+    "uptimeWeek": "94.55%",
+    "uptimeMonth": "92.69%",
+    "uptimeYear": "96.46%",
     "time": 6894,
-    "timeDay": 7293,
+    "timeDay": 7371,
     "timeWeek": 7388,
-    "timeMonth": 7559,
+    "timeMonth": 7565,
     "timeYear": 6894,
     "dailyMinutesDown": {
-      "2021-06-28": 268,
+      "2021-06-28": 263,
       "2021-06-27": 54,
       "2021-06-26": 54,
       "2021-06-25": 50,
@@ -65,7 +65,7 @@
       "2021-06-06": 141,
       "2021-06-05": 191,
       "2021-06-04": 84,
-      "2021-06-03": 150
+      "2021-06-03": 187
     }
   },
   {
@@ -114,18 +114,19 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "up",
-    "uptime": "87.46%",
-    "uptimeDay": "100.00%",
+    "status": "degraded",
+    "uptime": "87.49%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "87.46%",
-    "time": 5403,
-    "timeDay": 5190,
-    "timeWeek": 5285,
-    "timeMonth": 5302,
-    "timeYear": 5403,
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "87.49%",
+    "time": 5404,
+    "timeDay": 5374,
+    "timeWeek": 5291,
+    "timeMonth": 5305,
+    "timeYear": 5404,
     "dailyMinutesDown": {
+      "2021-06-28": 1,
       "2021-06-25": 63,
       "2021-06-24": 29,
       "2021-06-23": 17,
@@ -167,7 +168,7 @@
       "2021-05-04": 1268,
       "2021-05-03": 1381,
       "2021-05-02": 1227,
-      "2021-05-01": 939
+      "2021-05-01": 916
     }
   },
   {
