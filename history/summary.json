@@ -29,19 +29,18 @@
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
     "status": "up",
-    "uptime": "96.71%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "94.44%",
-    "uptimeMonth": "92.92%",
-    "uptimeYear": "96.71%",
+    "uptime": "96.68%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "92.85%",
+    "uptimeYear": "96.68%",
     "time": 6855,
     "timeDay": 6716,
     "timeWeek": 6843,
     "timeMonth": 7482,
     "timeYear": 6855,
     "dailyMinutesDown": {
-      "2021-07-01": 3,
-      "2021-06-30": 56,
+      "2021-06-30": 52,
       "2021-06-29": 43,
       "2021-06-28": 282,
       "2021-06-27": 54,
@@ -67,7 +66,7 @@
       "2021-06-07": 399,
       "2021-06-06": 141,
       "2021-06-05": 191,
-      "2021-06-04": 48
+      "2021-06-04": 84
     }
   },
   {
