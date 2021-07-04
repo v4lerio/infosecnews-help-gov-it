@@ -13,7 +13,7 @@
     "time": 1593,
     "timeDay": 1791,
     "timeWeek": 1470,
-    "timeMonth": 1351,
+    "timeMonth": 1358,
     "timeYear": 1593,
     "dailyMinutesDown": {
       "2021-06-17": 21,
@@ -28,19 +28,19 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
-    "uptime": "96.87%",
-    "uptimeDay": "93.87%",
-    "uptimeWeek": "94.78%",
-    "uptimeMonth": "92.85%",
-    "uptimeYear": "96.87%",
-    "time": 6811,
-    "timeDay": 7088,
-    "timeWeek": 6348,
-    "timeMonth": 7413,
-    "timeYear": 6811,
+    "status": "degraded",
+    "uptime": "96.92%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "94.87%",
+    "uptimeMonth": "92.95%",
+    "uptimeYear": "96.92%",
+    "time": 6816,
+    "timeDay": 7222,
+    "timeWeek": 6380,
+    "timeMonth": 7425,
+    "timeYear": 6816,
     "dailyMinutesDown": {
-      "2021-07-04": 89,
+      "2021-07-04": 90,
       "2021-07-03": 18,
       "2021-06-30": 52,
       "2021-06-29": 43,
@@ -67,7 +67,7 @@
       "2021-06-08": 226,
       "2021-06-07": 399,
       "2021-06-06": 141,
-      "2021-06-05": 170
+      "2021-06-05": 123
     }
   },
   {
@@ -84,7 +84,7 @@
     "time": 522,
     "timeDay": 970,
     "timeWeek": 611,
-    "timeMonth": 550,
+    "timeMonth": 559,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2021-05-13": 15
@@ -104,7 +104,7 @@
     "time": 734,
     "timeDay": 609,
     "timeWeek": 720,
-    "timeMonth": 674,
+    "timeMonth": 665,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2021-04-27": 803,
@@ -116,19 +116,19 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "degraded",
+    "status": "up",
     "uptime": "89.65%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.49%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "89.65%",
-    "time": 5437,
-    "timeDay": 5266,
-    "timeWeek": 5571,
-    "timeMonth": 5391,
-    "timeYear": 5437,
+    "time": 5436,
+    "timeDay": 5272,
+    "timeWeek": 5568,
+    "timeMonth": 5392,
+    "timeYear": 5436,
     "dailyMinutesDown": {
-      "2021-07-04": 19,
+      "2021-07-04": 27,
       "2021-07-02": 35,
       "2021-07-01": 24,
       "2021-06-30": 37,
@@ -191,7 +191,7 @@
     "time": 1700,
     "timeDay": 1671,
     "timeWeek": 1818,
-    "timeMonth": 2036,
+    "timeMonth": 2056,
     "timeYear": 1700,
     "dailyMinutesDown": {
       "2021-06-23": 34,
@@ -222,7 +222,7 @@
     "time": 1297,
     "timeDay": 594,
     "timeWeek": 2233,
-    "timeMonth": 1449,
+    "timeMonth": 1472,
     "timeYear": 1297,
     "dailyMinutesDown": {}
   },
@@ -240,7 +240,7 @@
     "time": 3953,
     "timeDay": 2207,
     "timeWeek": 4589,
-    "timeMonth": 5109,
+    "timeMonth": 5156,
     "timeYear": 3953,
     "dailyMinutesDown": {
       "2021-06-16": 15,
@@ -271,7 +271,7 @@
     "time": 2127,
     "timeDay": 3102,
     "timeWeek": 2389,
-    "timeMonth": 2108,
+    "timeMonth": 2120,
     "timeYear": 2127,
     "dailyMinutesDown": {
       "2021-05-20": 20
@@ -291,7 +291,7 @@
     "time": 3451,
     "timeDay": 3208,
     "timeWeek": 2656,
-    "timeMonth": 4087,
+    "timeMonth": 4127,
     "timeYear": 3451,
     "dailyMinutesDown": {
       "2021-06-24": 30,
@@ -312,7 +312,7 @@
     "time": 1755,
     "timeDay": 1716,
     "timeWeek": 1716,
-    "timeMonth": 2069,
+    "timeMonth": 2096,
     "timeYear": 1755,
     "dailyMinutesDown": {}
   },
@@ -330,7 +330,7 @@
     "time": 1572,
     "timeDay": 1098,
     "timeWeek": 1685,
-    "timeMonth": 1491,
+    "timeMonth": 1516,
     "timeYear": 1572,
     "dailyMinutesDown": {
       "2021-06-07": 18,
@@ -354,7 +354,7 @@
     "time": 1888,
     "timeDay": 2112,
     "timeWeek": 1910,
-    "timeMonth": 2168,
+    "timeMonth": 2192,
     "timeYear": 1888,
     "dailyMinutesDown": {
       "2021-06-02": 46,
@@ -379,7 +379,7 @@
     "time": 1715,
     "timeDay": 1904,
     "timeWeek": 1797,
-    "timeMonth": 1654,
+    "timeMonth": 1668,
     "timeYear": 1715,
     "dailyMinutesDown": {}
   },
@@ -397,7 +397,7 @@
     "time": 1303,
     "timeDay": 1435,
     "timeWeek": 1326,
-    "timeMonth": 1296,
+    "timeMonth": 1307,
     "timeYear": 1303,
     "dailyMinutesDown": {
       "2021-06-13": 23
@@ -417,7 +417,7 @@
     "time": 2090,
     "timeDay": 2436,
     "timeWeek": 2226,
-    "timeMonth": 2185,
+    "timeMonth": 2199,
     "timeYear": 2090,
     "dailyMinutesDown": {
       "2021-04-27": 21
