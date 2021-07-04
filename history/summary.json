@@ -36,7 +36,7 @@
     "uptimeYear": "96.86%",
     "time": 6814,
     "timeDay": 6894,
-    "timeWeek": 6322,
+    "timeWeek": 6330,
     "timeMonth": 7428,
     "timeYear": 6814,
     "dailyMinutesDown": {
@@ -116,18 +116,19 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "up",
-    "uptime": "89.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.50%",
+    "status": "degraded",
+    "uptime": "89.57%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.49%",
     "uptimeMonth": "98.53%",
-    "uptimeYear": "89.54%",
-    "time": 5438,
-    "timeDay": 5234,
-    "timeWeek": 5571,
-    "timeMonth": 5392,
-    "timeYear": 5438,
+    "uptimeYear": "89.57%",
+    "time": 5439,
+    "timeDay": 5284,
+    "timeWeek": 5573,
+    "timeMonth": 5393,
+    "timeYear": 5439,
     "dailyMinutesDown": {
+      "2021-07-04": 1,
       "2021-07-02": 35,
       "2021-07-01": 24,
       "2021-06-30": 37,
@@ -173,7 +174,7 @@
       "2021-05-05": 1389,
       "2021-05-04": 1268,
       "2021-05-03": 1381,
-      "2021-05-02": 1102
+      "2021-05-02": 1074
     }
   },
   {
