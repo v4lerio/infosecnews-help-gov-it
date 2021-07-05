@@ -13,7 +13,7 @@
     "time": 1595,
     "timeDay": 1667,
     "timeWeek": 1628,
-    "timeMonth": 1381,
+    "timeMonth": 1384,
     "timeYear": 1595,
     "dailyMinutesDown": {
       "2021-06-17": 21,
@@ -37,7 +37,7 @@
     "time": 6848,
     "timeDay": 8454,
     "timeWeek": 6628,
-    "timeMonth": 7467,
+    "timeMonth": 7472,
     "timeYear": 6848,
     "dailyMinutesDown": {
       "2021-07-05": 42,
@@ -85,7 +85,7 @@
     "time": 522,
     "timeDay": 474,
     "timeWeek": 587,
-    "timeMonth": 556,
+    "timeMonth": 538,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2021-05-13": 15
@@ -105,7 +105,7 @@
     "time": 733,
     "timeDay": 632,
     "timeWeek": 696,
-    "timeMonth": 664,
+    "timeMonth": 675,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2021-04-27": 803,
@@ -117,19 +117,19 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "up",
-    "uptime": "89.87%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "89.87%",
-    "time": 5434,
-    "timeDay": 5397,
-    "timeWeek": 5481,
-    "timeMonth": 5392,
-    "timeYear": 5434,
+    "status": "degraded",
+    "uptime": "89.88%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "89.88%",
+    "time": 5435,
+    "timeDay": 5393,
+    "timeWeek": 5483,
+    "timeMonth": 5394,
+    "timeYear": 5435,
     "dailyMinutesDown": {
-      "2021-07-05": 65,
+      "2021-07-05": 62,
       "2021-07-04": 18,
       "2021-07-02": 35,
       "2021-07-01": 24,
@@ -193,7 +193,7 @@
     "time": 1704,
     "timeDay": 1954,
     "timeWeek": 1846,
-    "timeMonth": 2052,
+    "timeMonth": 2067,
     "timeYear": 1704,
     "dailyMinutesDown": {
       "2021-06-23": 34,
@@ -224,7 +224,7 @@
     "time": 1312,
     "timeDay": 2512,
     "timeWeek": 2147,
-    "timeMonth": 1510,
+    "timeMonth": 1537,
     "timeYear": 1312,
     "dailyMinutesDown": {}
   },
@@ -242,7 +242,7 @@
     "time": 4000,
     "timeDay": 6514,
     "timeWeek": 4922,
-    "timeMonth": 5207,
+    "timeMonth": 5254,
     "timeYear": 4000,
     "dailyMinutesDown": {
       "2021-06-16": 15,
@@ -273,7 +273,7 @@
     "time": 2131,
     "timeDay": 2422,
     "timeWeek": 2396,
-    "timeMonth": 2132,
+    "timeMonth": 2145,
     "timeYear": 2131,
     "dailyMinutesDown": {
       "2021-05-20": 20
@@ -293,7 +293,7 @@
     "time": 3458,
     "timeDay": 4078,
     "timeWeek": 2892,
-    "timeMonth": 4126,
+    "timeMonth": 4171,
     "timeYear": 3458,
     "dailyMinutesDown": {
       "2021-06-24": 30,
@@ -314,7 +314,7 @@
     "time": 1752,
     "timeDay": 1571,
     "timeWeek": 1645,
-    "timeMonth": 2078,
+    "timeMonth": 2104,
     "timeYear": 1752,
     "dailyMinutesDown": {}
   },
@@ -331,8 +331,8 @@
     "uptimeYear": "99.89%",
     "time": 1565,
     "timeDay": 864,
-    "timeWeek": 1616,
-    "timeMonth": 1499,
+    "timeWeek": 1686,
+    "timeMonth": 1492,
     "timeYear": 1565,
     "dailyMinutesDown": {
       "2021-06-07": 18,
@@ -356,7 +356,7 @@
     "time": 1897,
     "timeDay": 2870,
     "timeWeek": 2002,
-    "timeMonth": 2212,
+    "timeMonth": 2236,
     "timeYear": 1897,
     "dailyMinutesDown": {
       "2021-06-02": 46,
@@ -381,7 +381,7 @@
     "time": 1716,
     "timeDay": 1742,
     "timeWeek": 1755,
-    "timeMonth": 1676,
+    "timeMonth": 1688,
     "timeYear": 1716,
     "dailyMinutesDown": {}
   },
@@ -399,7 +399,7 @@
     "time": 1304,
     "timeDay": 1411,
     "timeWeek": 1320,
-    "timeMonth": 1311,
+    "timeMonth": 1322,
     "timeYear": 1304,
     "dailyMinutesDown": {
       "2021-06-13": 23
@@ -419,7 +419,7 @@
     "time": 2090,
     "timeDay": 2091,
     "timeWeek": 2214,
-    "timeMonth": 2195,
+    "timeMonth": 2209,
     "timeYear": 2090,
     "dailyMinutesDown": {
       "2021-04-27": 21
