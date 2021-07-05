@@ -28,19 +28,19 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
-    "uptime": "96.94%",
-    "uptimeDay": "97.04%",
+    "status": "degraded",
+    "uptime": "96.96%",
+    "uptimeDay": "96.99%",
     "uptimeWeek": "97.57%",
     "uptimeMonth": "93.14%",
-    "uptimeYear": "96.94%",
-    "time": 6833,
-    "timeDay": 7533,
-    "timeWeek": 6552,
-    "timeMonth": 7447,
-    "timeYear": 6833,
+    "uptimeYear": "96.96%",
+    "time": 6840,
+    "timeDay": 7846,
+    "timeWeek": 6586,
+    "timeMonth": 7457,
+    "timeYear": 6840,
     "dailyMinutesDown": {
-      "2021-07-05": 42,
+      "2021-07-05": 43,
       "2021-07-04": 89,
       "2021-07-03": 18,
       "2021-06-30": 52,
@@ -68,7 +68,7 @@
       "2021-06-08": 226,
       "2021-06-07": 399,
       "2021-06-06": 141,
-      "2021-06-05": 98
+      "2021-06-05": 75
     }
   },
   {
@@ -373,19 +373,17 @@
     "icon": "https://favicons.githubusercontent.com/www.politicheagricole.it",
     "slug": "politiche-agricole",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1720,
     "timeDay": 1968,
     "timeWeek": 1826,
     "timeMonth": 1682,
     "timeYear": 1720,
-    "dailyMinutesDown": {
-      "2021-07-05": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ambiente",
