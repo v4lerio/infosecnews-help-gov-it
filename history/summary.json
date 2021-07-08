@@ -29,18 +29,18 @@
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
     "status": "up",
-    "uptime": "97.07%",
-    "uptimeDay": "95.95%",
-    "uptimeWeek": "96.99%",
-    "uptimeMonth": "94.17%",
-    "uptimeYear": "97.07%",
+    "uptime": "97.06%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "94.18%",
+    "uptimeYear": "97.06%",
     "time": 6895,
-    "timeDay": 6644,
-    "timeWeek": 7158,
+    "timeDay": 6745,
+    "timeWeek": 7176,
     "timeMonth": 7489,
     "timeYear": 6895,
     "dailyMinutesDown": {
-      "2021-07-08": 58,
+      "2021-07-08": 53,
       "2021-07-07": 26,
       "2021-07-06": 69,
       "2021-07-05": 42,
@@ -70,7 +70,7 @@
       "2021-06-09": 128,
       "2021-06-08": 226,
       "2021-06-07": 399,
-      "2021-06-06": 54
+      "2021-06-06": 77
     }
   },
   {
@@ -119,19 +119,19 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "up",
-    "uptime": "91.12%",
-    "uptimeDay": "94.43%",
-    "uptimeWeek": "97.13%",
+    "status": "degraded",
+    "uptime": "92.16%",
+    "uptimeDay": "94.36%",
+    "uptimeWeek": "97.36%",
     "uptimeMonth": "98.11%",
-    "uptimeYear": "91.12%",
+    "uptimeYear": "92.16%",
     "time": 5440,
-    "timeDay": 5672,
-    "timeWeek": 5460,
-    "timeMonth": 5410,
+    "timeDay": 5717,
+    "timeWeek": 5403,
+    "timeMonth": 5412,
     "timeYear": 5440,
     "dailyMinutesDown": {
-      "2021-07-08": 22,
+      "2021-07-08": 23,
       "2021-07-07": 59,
       "2021-07-06": 70,
       "2021-07-05": 61,
@@ -180,7 +180,7 @@
       "2021-05-06": 1359,
       "2021-05-05": 1389,
       "2021-05-04": 1268,
-      "2021-05-03": 1147
+      "2021-05-03": 54
     }
   },
   {
@@ -246,7 +246,7 @@
     "time": 4091,
     "timeDay": 1746,
     "timeWeek": 6164,
-    "timeMonth": 5468,
+    "timeMonth": 5377,
     "timeYear": 4091,
     "dailyMinutesDown": {
       "2021-06-16": 15,
