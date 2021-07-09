@@ -28,19 +28,19 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
-    "uptime": "97.20%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "94.66%",
-    "uptimeYear": "97.20%",
+    "status": "degraded",
+    "uptime": "97.24%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "94.65%",
+    "uptimeYear": "97.24%",
     "time": 6924,
-    "timeDay": 7819,
-    "timeWeek": 7464,
+    "timeDay": 7830,
+    "timeWeek": 7467,
     "timeMonth": 7516,
     "timeYear": 6924,
     "dailyMinutesDown": {
-      "2021-07-09": 44,
+      "2021-07-09": 45,
       "2021-07-08": 92,
       "2021-07-07": 26,
       "2021-07-06": 69,
@@ -70,7 +70,7 @@
       "2021-06-10": 173,
       "2021-06-09": 128,
       "2021-06-08": 226,
-      "2021-06-07": 303
+      "2021-06-07": 261
     }
   },
   {
@@ -120,18 +120,17 @@
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
     "status": "up",
-    "uptime": "93.53%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "96.05%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "93.53%",
+    "uptime": "93.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "93.37%",
     "time": 5434,
-    "timeDay": 5351,
-    "timeWeek": 5405,
+    "timeDay": 5343,
+    "timeWeek": 5407,
     "timeMonth": 5412,
     "timeYear": 5434,
     "dailyMinutesDown": {
-      "2021-07-09": 9,
       "2021-07-08": 181,
       "2021-07-07": 59,
       "2021-07-06": 70,
@@ -179,7 +178,8 @@
       "2021-05-08": 78,
       "2021-05-07": 875,
       "2021-05-06": 1359,
-      "2021-05-05": 1253
+      "2021-05-05": 1389,
+      "2021-05-04": 42
     }
   },
   {
