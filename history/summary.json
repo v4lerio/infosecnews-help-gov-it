@@ -28,19 +28,19 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
-    "uptime": "97.44%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "97.44%",
+    "status": "degraded",
+    "uptime": "97.46%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "96.38%",
+    "uptimeMonth": "95.48%",
+    "uptimeYear": "97.46%",
     "time": 6961,
-    "timeDay": 6675,
-    "timeWeek": 7302,
-    "timeMonth": 7352,
+    "timeDay": 6717,
+    "timeWeek": 7323,
+    "timeMonth": 7339,
     "timeYear": 6961,
     "dailyMinutesDown": {
-      "2021-07-13": 43,
+      "2021-07-13": 44,
       "2021-07-12": 42,
       "2021-07-10": 116,
       "2021-07-09": 44,
@@ -72,7 +72,7 @@
       "2021-06-11": 70,
       "2021-06-10": 173,
       "2021-06-09": 128,
-      "2021-06-08": 226
+      "2021-06-08": 196
     }
   },
   {
@@ -122,18 +122,18 @@
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
     "status": "up",
-    "uptime": "96.90%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "93.77%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "96.90%",
+    "uptime": "96.89%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "93.83%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "96.89%",
     "time": 5432,
     "timeDay": 5315,
     "timeWeek": 5436,
     "timeMonth": 5417,
     "timeYear": 5432,
     "dailyMinutesDown": {
-      "2021-07-13": 40,
+      "2021-07-13": 34,
       "2021-07-12": 330,
       "2021-07-11": 17,
       "2021-07-08": 181,
@@ -176,7 +176,8 @@
       "2021-05-17": 23,
       "2021-05-14": 430,
       "2021-05-13": 201,
-      "2021-05-12": 17
+      "2021-05-12": 17,
+      "2021-05-11": 16
     }
   },
   {
@@ -193,7 +194,7 @@
     "time": 1980,
     "timeDay": 1079,
     "timeWeek": 3310,
-    "timeMonth": 2725,
+    "timeMonth": 2750,
     "timeYear": 1980,
     "dailyMinutesDown": {
       "2021-07-09": 17,
@@ -355,8 +356,8 @@
     "uptimeMonth": "96.80%",
     "uptimeYear": "98.40%",
     "time": 1761,
-    "timeDay": 1737,
-    "timeWeek": 1237,
+    "timeDay": 2027,
+    "timeWeek": 1242,
     "timeMonth": 1802,
     "timeYear": 1761,
     "dailyMinutesDown": {
