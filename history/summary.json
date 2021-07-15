@@ -29,19 +29,19 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
-    "uptime": "97.44%",
-    "uptimeDay": "86.52%",
-    "uptimeWeek": "94.64%",
+    "status": "degraded",
+    "uptime": "97.45%",
+    "uptimeDay": "86.45%",
+    "uptimeWeek": "94.63%",
     "uptimeMonth": "95.60%",
-    "uptimeYear": "97.44%",
+    "uptimeYear": "97.45%",
     "time": 6947,
-    "timeDay": 6396,
-    "timeWeek": 7238,
-    "timeMonth": 7261,
+    "timeDay": 6427,
+    "timeWeek": 7231,
+    "timeMonth": 7262,
     "timeYear": 6947,
     "dailyMinutesDown": {
-      "2021-07-15": 170,
+      "2021-07-15": 171,
       "2021-07-14": 87,
       "2021-07-13": 43,
       "2021-07-12": 42,
@@ -74,8 +74,7 @@
       "2021-06-12": 16,
       "2021-06-11": 70,
       "2021-06-10": 173,
-      "2021-06-09": 128,
-      "2021-06-08": 21
+      "2021-06-09": 128
     }
   },
   {
@@ -397,9 +396,9 @@
     "slug": "ambiente",
     "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "4.62%",
-    "uptimeWeek": "86.37%",
-    "uptimeMonth": "96.86%",
+    "uptimeDay": "4.06%",
+    "uptimeWeek": "86.29%",
+    "uptimeMonth": "96.85%",
     "uptimeYear": "98.78%",
     "time": 1330,
     "timeDay": 1561,
@@ -407,7 +406,7 @@
     "timeMonth": 1365,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2021-07-15": 442,
+      "2021-07-15": 450,
       "2021-07-14": 932,
       "2021-06-13": 23
     }
