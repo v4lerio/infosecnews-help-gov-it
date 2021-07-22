@@ -1,7 +1,7 @@
 url: https://www.mef.gov.it/
-status: up
+status: degraded
 code: 200
-responseTime: 2728
-lastUpdated: 2021-07-21T23:06:02.121Z
+responseTime: 7680
+lastUpdated: 2021-07-22T06:00:18.608Z
 startTime: Mon Apr 26 2021 11:32:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
