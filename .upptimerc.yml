@@ -62,8 +62,6 @@ status-website:
   introTitle: "**HelpGovIT** - Micro progetto di supporto informativo."
   introMessage: "Di seguito lo status dei portali web dei ministeri Italiani al servizio del cittadino..."
   navbar:
-    - title: Status
-      href: /
     - title: InfoSec.News
       href: https://infosec.news
 
