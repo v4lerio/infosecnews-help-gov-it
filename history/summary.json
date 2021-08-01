@@ -31,19 +31,19 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "93.70%",
-    "uptimeYear": "98.02%",
-    "time": 6920,
-    "timeDay": 9968,
-    "timeWeek": 7048,
-    "timeMonth": 6991,
-    "timeYear": 6920,
+    "status": "degraded",
+    "uptime": "98.04%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "95.55%",
+    "uptimeMonth": "93.76%",
+    "uptimeYear": "98.04%",
+    "time": 6923,
+    "timeDay": 10212,
+    "timeWeek": 7078,
+    "timeMonth": 6996,
+    "timeYear": 6923,
     "dailyMinutesDown": {
-      "2021-08-01": 30,
+      "2021-08-01": 31,
       "2021-07-31": 26,
       "2021-07-30": 39,
       "2021-07-29": 47,
@@ -69,7 +69,7 @@
       "2021-07-07": 26,
       "2021-07-06": 69,
       "2021-07-05": 42,
-      "2021-07-04": 71
+      "2021-07-04": 42
     }
   },
   {
@@ -122,9 +122,9 @@
     "slug": "esteri",
     "status": "up",
     "uptime": "98.18%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "91.71%",
-    "uptimeMonth": "94.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.80%",
+    "uptimeMonth": "94.25%",
     "uptimeYear": "98.18%",
     "time": 5434,
     "timeDay": 5395,
@@ -132,7 +132,6 @@
     "timeMonth": 5434,
     "timeYear": 5434,
     "dailyMinutesDown": {
-      "2021-08-01": 9,
       "2021-07-30": 42,
       "2021-07-29": 97,
       "2021-07-28": 210,
@@ -158,7 +157,8 @@
       "2021-07-05": 61,
       "2021-07-04": 18,
       "2021-07-02": 35,
-      "2021-07-01": 24
+      "2021-07-01": 24,
+      "2021-06-30": 16
     }
   },
   {
@@ -174,7 +174,7 @@
     "uptimeYear": "99.48%",
     "time": 2018,
     "timeDay": 1780,
-    "timeWeek": 1501,
+    "timeWeek": 1488,
     "timeMonth": 2539,
     "timeYear": 2018,
     "dailyMinutesDown": {
@@ -225,7 +225,7 @@
     "uptimeYear": "99.20%",
     "time": 4177,
     "timeDay": 2943,
-    "timeWeek": 2986,
+    "timeWeek": 2743,
     "timeMonth": 4824,
     "timeYear": 4177,
     "dailyMinutesDown": {
@@ -391,11 +391,11 @@
     "icon": "https://favicons.githubusercontent.com/www.mite.gov.it",
     "slug": "ambiente",
     "status": "up",
-    "uptime": "89.50%",
+    "uptime": "89.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "66.71%",
-    "uptimeYear": "89.50%",
+    "uptimeYear": "89.51%",
     "time": 1332,
     "timeDay": 1915,
     "timeWeek": 1213,
