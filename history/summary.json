@@ -37,9 +37,9 @@
     "slug": "agenzia-delle-entrate",
     "status": "up",
     "uptime": "97.98%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "90.88%",
-    "uptimeMonth": "92.53%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "90.95%",
+    "uptimeMonth": "92.51%",
     "uptimeYear": "97.98%",
     "time": 6933,
     "timeDay": 5109,
@@ -47,8 +47,7 @@
     "timeMonth": 7014,
     "timeYear": 6933,
     "dailyMinutesDown": {
-      "2021-08-17": 4,
-      "2021-08-16": 21,
+      "2021-08-16": 17,
       "2021-08-14": 295,
       "2021-08-13": 117,
       "2021-08-12": 385,
@@ -76,7 +75,7 @@
       "2021-07-20": 313,
       "2021-07-19": 398,
       "2021-07-18": 123,
-      "2021-07-17": 88
+      "2021-07-17": 104
     }
   },
   {
@@ -299,7 +298,7 @@
     "slug": "lavoro",
     "status": "up",
     "uptime": "97.61%",
-    "uptimeDay": "82.26%",
+    "uptimeDay": "82.56%",
     "uptimeWeek": "63.52%",
     "uptimeMonth": "91.52%",
     "uptimeYear": "97.61%",
@@ -391,7 +390,7 @@
     "uptime": "90.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.43%",
+    "uptimeMonth": "75.44%",
     "uptimeYear": "90.98%",
     "time": 1332,
     "timeDay": 990,
