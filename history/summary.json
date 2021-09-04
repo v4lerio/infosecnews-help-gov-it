@@ -37,18 +37,19 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "96.45%",
-    "uptimeMonth": "94.92%",
-    "uptimeYear": "98.34%",
-    "time": 6824,
-    "timeDay": 6667,
-    "timeWeek": 6279,
-    "timeMonth": 6275,
-    "timeYear": 6824,
+    "status": "degraded",
+    "uptime": "98.35%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "96.44%",
+    "uptimeMonth": "94.95%",
+    "uptimeYear": "98.35%",
+    "time": 6823,
+    "timeDay": 6645,
+    "timeWeek": 6278,
+    "timeMonth": 6270,
+    "timeYear": 6823,
     "dailyMinutesDown": {
+      "2021-09-04": 1,
       "2021-09-03": 38,
       "2021-09-02": 26,
       "2021-09-01": 49,
@@ -87,7 +88,7 @@
       "2021-07-24": 44,
       "2021-07-23": 30,
       "2021-07-21": 43,
-      "2021-07-20": 164
+      "2021-07-20": 142
     }
   },
   {
@@ -139,18 +140,17 @@
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
     "status": "up",
-    "uptime": "92.50%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "55.00%",
-    "uptimeMonth": "67.68%",
-    "uptimeYear": "92.50%",
+    "uptime": "92.49%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "55.33%",
+    "uptimeMonth": "67.64%",
+    "uptimeYear": "92.49%",
     "time": 5904,
-    "timeDay": 5361,
+    "timeDay": 5381,
     "timeWeek": 8358,
-    "timeMonth": 6480,
+    "timeMonth": 6482,
     "timeYear": 5904,
     "dailyMinutesDown": {
-      "2021-09-04": 6,
       "2021-09-03": 24,
       "2021-09-02": 42,
       "2021-09-01": 108,
@@ -165,7 +165,7 @@
       "2021-08-23": 1116,
       "2021-08-22": 703,
       "2021-08-21": 535,
-      "2021-08-20": 760
+      "2021-08-20": 784
     }
   },
   {
@@ -236,7 +236,7 @@
     "time": 4468,
     "timeDay": 7371,
     "timeWeek": 5146,
-    "timeMonth": 5237,
+    "timeMonth": 5228,
     "timeYear": 4468,
     "dailyMinutesDown": {
       "2021-09-02": 17,
