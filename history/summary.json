@@ -39,18 +39,18 @@
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
     "status": "up",
-    "uptime": "98.41%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "94.86%",
-    "uptimeYear": "98.41%",
+    "uptime": "98.40%",
+    "uptimeDay": "96.64%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "94.88%",
+    "uptimeYear": "98.40%",
     "time": 6870,
     "timeDay": 10298,
     "timeWeek": 7329,
-    "timeMonth": 6513,
+    "timeMonth": 6510,
     "timeYear": 6870,
     "dailyMinutesDown": {
-      "2021-09-06": 55,
+      "2021-09-06": 48,
       "2021-09-05": 53,
       "2021-09-04": 18,
       "2021-09-03": 38,
@@ -89,7 +89,8 @@
       "2021-07-26": 79,
       "2021-07-25": 35,
       "2021-07-24": 44,
-      "2021-07-23": 30
+      "2021-07-23": 30,
+      "2021-07-21": 22
     }
   },
   {
@@ -140,19 +141,19 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "up",
-    "uptime": "92.68%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "86.72%",
-    "uptimeMonth": "67.86%",
-    "uptimeYear": "92.68%",
+    "status": "degraded",
+    "uptime": "92.71%",
+    "uptimeDay": "95.97%",
+    "uptimeWeek": "86.80%",
+    "uptimeMonth": "68.00%",
+    "uptimeYear": "92.71%",
     "time": 5892,
-    "timeDay": 5285,
-    "timeWeek": 6113,
-    "timeMonth": 6526,
+    "timeDay": 5297,
+    "timeWeek": 6112,
+    "timeMonth": 6525,
     "timeYear": 5892,
     "dailyMinutesDown": {
-      "2021-09-06": 57,
+      "2021-09-06": 58,
       "2021-09-05": 17,
       "2021-09-03": 24,
       "2021-09-02": 42,
@@ -168,7 +169,7 @@
       "2021-08-23": 1116,
       "2021-08-22": 703,
       "2021-08-21": 535,
-      "2021-08-20": 611
+      "2021-08-20": 548
     }
   },
   {
@@ -238,7 +239,7 @@
     "uptimeYear": "99.41%",
     "time": 4499,
     "timeDay": 11455,
-    "timeWeek": 4926,
+    "timeWeek": 5030,
     "timeMonth": 5033,
     "timeYear": 4499,
     "dailyMinutesDown": {
@@ -271,7 +272,7 @@
     "uptimeYear": "99.99%",
     "time": 2203,
     "timeDay": 0,
-    "timeWeek": 2039,
+    "timeWeek": 1913,
     "timeMonth": 2114,
     "timeYear": 2203,
     "dailyMinutesDown": {
@@ -291,7 +292,7 @@
     "uptimeYear": "99.97%",
     "time": 3967,
     "timeDay": 5746,
-    "timeWeek": 2930,
+    "timeWeek": 3030,
     "timeMonth": 5338,
     "timeYear": 3967,
     "dailyMinutesDown": {
@@ -312,7 +313,7 @@
     "uptimeYear": "100.00%",
     "time": 2155,
     "timeDay": 6124,
-    "timeWeek": 4116,
+    "timeWeek": 4317,
     "timeMonth": 3279,
     "timeYear": 2155,
     "dailyMinutesDown": {}
@@ -330,7 +331,7 @@
     "uptimeYear": "97.99%",
     "time": 2498,
     "timeDay": 0,
-    "timeWeek": 1367,
+    "timeWeek": 1456,
     "timeMonth": 1324,
     "timeYear": 2498,
     "dailyMinutesDown": {
@@ -362,7 +363,7 @@
     "uptimeYear": "97.47%",
     "time": 1937,
     "timeDay": 1682,
-    "timeWeek": 3288,
+    "timeWeek": 3311,
     "timeMonth": 2567,
     "timeYear": 1937,
     "dailyMinutesDown": {
@@ -402,7 +403,7 @@
     "uptimeYear": "100.00%",
     "time": 1687,
     "timeDay": 0,
-    "timeWeek": 1569,
+    "timeWeek": 1481,
     "timeMonth": 1650,
     "timeYear": 1687,
     "dailyMinutesDown": {}
@@ -420,7 +421,7 @@
     "uptimeYear": "92.40%",
     "time": 1374,
     "timeDay": 0,
-    "timeWeek": 1215,
+    "timeWeek": 1133,
     "timeMonth": 1535,
     "timeYear": 1374,
     "dailyMinutesDown": {
@@ -451,7 +452,7 @@
     "uptimeYear": "99.87%",
     "time": 2045,
     "timeDay": 0,
-    "timeWeek": 1777,
+    "timeWeek": 1719,
     "timeMonth": 1963,
     "timeYear": 2045,
     "dailyMinutesDown": {
