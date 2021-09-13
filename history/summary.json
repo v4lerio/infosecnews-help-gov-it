@@ -40,17 +40,16 @@
     "slug": "agenzia-delle-entrate",
     "status": "up",
     "uptime": "98.50%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "96.95%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "96.98%",
     "uptimeYear": "98.50%",
     "time": 6917,
-    "timeDay": 7582,
+    "timeDay": 7434,
     "timeWeek": 7964,
     "timeMonth": 6810,
     "timeYear": 6917,
     "dailyMinutesDown": {
-      "2021-09-13": 11,
       "2021-09-12": 48,
       "2021-09-11": 26,
       "2021-09-10": 40,
@@ -92,7 +91,7 @@
       "2021-07-30": 39,
       "2021-07-29": 47,
       "2021-07-28": 128,
-      "2021-07-27": 33
+      "2021-07-27": 48
     }
   },
   {
@@ -183,10 +182,10 @@
     "url": "https://www.giustizia.it/",
     "icon": "https://favicons.githubusercontent.com/www.giustizia.it",
     "slug": "giustizia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.60%",
     "time": 1974,
@@ -195,7 +194,7 @@
     "timeMonth": 1479,
     "timeYear": 1974,
     "dailyMinutesDown": {
-      "2021-09-13": 23,
+      "2021-09-13": 24,
       "2021-08-26": 23,
       "2021-08-14": 20,
       "2021-08-12": 26,
