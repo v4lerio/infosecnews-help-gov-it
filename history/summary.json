@@ -38,19 +38,19 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "48.41%",
+    "uptimeDay": "48.37%",
     "uptimeWeek": "88.40%",
     "uptimeMonth": "95.50%",
     "uptimeYear": "98.37%",
     "time": 6936,
     "timeDay": 7042,
-    "timeWeek": 7573,
-    "timeMonth": 6895,
+    "timeWeek": 7513,
+    "timeMonth": 6894,
     "timeYear": 6936,
     "dailyMinutesDown": {
-      "2021-09-15": 724,
+      "2021-09-15": 725,
       "2021-09-14": 283,
       "2021-09-13": 15,
       "2021-09-12": 48,
@@ -82,8 +82,7 @@
       "2021-08-11": 25,
       "2021-08-10": 75,
       "2021-08-09": 453,
-      "2021-08-08": 16,
-      "2021-08-07": 19
+      "2021-08-08": 16
     }
   },
   {
@@ -136,9 +135,9 @@
     "slug": "esteri",
     "status": "down",
     "uptime": "97.65%",
-    "uptimeDay": "78.58%",
-    "uptimeWeek": "84.24%",
-    "uptimeMonth": "88.98%",
+    "uptimeDay": "78.24%",
+    "uptimeWeek": "84.19%",
+    "uptimeMonth": "88.97%",
     "uptimeYear": "97.65%",
     "time": 5834,
     "timeDay": 5573,
@@ -146,7 +145,7 @@
     "timeMonth": 6443,
     "timeYear": 5834,
     "dailyMinutesDown": {
-      "2021-09-15": 308,
+      "2021-09-15": 313,
       "2021-09-14": 169,
       "2021-09-13": 120,
       "2021-09-12": 15,
@@ -300,9 +299,9 @@
     "slug": "universita-e-ricerca-mur",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "57.53%",
-    "uptimeWeek": "93.93%",
-    "uptimeMonth": "98.60%",
+    "uptimeDay": "57.17%",
+    "uptimeWeek": "93.88%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "99.70%",
     "time": 2132,
     "timeDay": 1217,
@@ -310,7 +309,7 @@
     "timeMonth": 3053,
     "timeYear": 2132,
     "dailyMinutesDown": {
-      "2021-09-15": 612
+      "2021-09-15": 617
     }
   },
   {
@@ -322,7 +321,7 @@
     "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.22%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "98.11%",
     "time": 2821,
     "timeDay": 964,
