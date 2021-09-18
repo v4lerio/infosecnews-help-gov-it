@@ -38,19 +38,19 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "32.60%",
+    "status": "degraded",
+    "uptime": "98.06%",
+    "uptimeDay": "32.80%",
     "uptimeWeek": "66.81%",
-    "uptimeMonth": "90.71%",
-    "uptimeYear": "98.05%",
+    "uptimeMonth": "90.76%",
+    "uptimeYear": "98.06%",
     "time": 6997,
-    "timeDay": 8318,
-    "timeWeek": 8158,
-    "timeMonth": 7210,
+    "timeDay": 8344,
+    "timeWeek": 8169,
+    "timeMonth": 7209,
     "timeYear": 6997,
     "dailyMinutesDown": {
-      "2021-09-18": 434,
+      "2021-09-18": 435,
       "2021-09-17": 959,
       "2021-09-16": 814,
       "2021-09-15": 763,
@@ -73,7 +73,7 @@
       "2021-08-29": 183,
       "2021-08-26": 33,
       "2021-08-25": 42,
-      "2021-08-24": 61
+      "2021-08-24": 36
     }
   },
   {
@@ -133,7 +133,7 @@
     "time": 5830,
     "timeDay": 5309,
     "timeWeek": 5473,
-    "timeMonth": 6480,
+    "timeMonth": 6481,
     "timeYear": 5830,
     "dailyMinutesDown": {
       "2021-09-17": 727,
