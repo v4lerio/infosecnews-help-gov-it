@@ -1,7 +1,7 @@
 url: https://www.mit.gov.it/
-status: up
-code: 200
-responseTime: 4027
-lastUpdated: 2021-09-20T09:40:43.564Z
+status: down
+code: 500
+responseTime: 2087
+lastUpdated: 2021-09-20T22:09:01.423Z
 startTime: Mon Apr 26 2021 11:32:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
