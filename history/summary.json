@@ -39,24 +39,24 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
-    "uptime": "97.54%",
-    "uptimeDay": "36.39%",
-    "uptimeWeek": "47.93%",
-    "uptimeMonth": "88.02%",
-    "uptimeYear": "97.54%",
+    "status": "degraded",
+    "uptime": "97.57%",
+    "uptimeDay": "36.34%",
+    "uptimeWeek": "48.39%",
+    "uptimeMonth": "88.12%",
+    "uptimeYear": "97.57%",
     "time": 7049,
-    "timeDay": 7311,
-    "timeWeek": 8148,
-    "timeMonth": 7452,
+    "timeDay": 7346,
+    "timeWeek": 8163,
+    "timeMonth": 7455,
     "timeYear": 7049,
     "dailyMinutesDown": {
-      "2021-09-21": 786,
+      "2021-09-21": 787,
       "2021-09-20": 805,
       "2021-09-19": 1014,
       "2021-09-18": 1093,
       "2021-09-17": 959,
-      "2021-09-16": 592
+      "2021-09-16": 545
     }
   },
   {
@@ -109,9 +109,9 @@
     "slug": "esteri",
     "status": "up",
     "uptime": "98.00%",
-    "uptimeDay": "90.98%",
-    "uptimeWeek": "75.95%",
-    "uptimeMonth": "90.26%",
+    "uptimeDay": "91.50%",
+    "uptimeWeek": "76.03%",
+    "uptimeMonth": "90.23%",
     "uptimeYear": "98.00%",
     "time": 5814,
     "timeDay": 5284,
@@ -119,7 +119,7 @@
     "timeMonth": 6501,
     "timeYear": 5814,
     "dailyMinutesDown": {
-      "2021-09-21": 111,
+      "2021-09-21": 104,
       "2021-09-20": 93,
       "2021-09-19": 80,
       "2021-09-17": 727,
@@ -132,7 +132,7 @@
       "2021-09-10": 354,
       "2021-09-09": 544,
       "2021-09-08": 511,
-      "2021-09-07": 69
+      "2021-09-07": 89
     }
   },
   {
@@ -292,9 +292,9 @@
     "slug": "lavoro",
     "status": "up",
     "uptime": "98.18%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.18%",
     "time": 2793,
     "timeDay": 1190,
@@ -302,7 +302,6 @@
     "timeMonth": 3460,
     "timeYear": 2793,
     "dailyMinutesDown": {
-      "2021-09-21": 6,
       "2021-09-11": 15,
       "2021-08-16": 260,
       "2021-08-15": 1440,
