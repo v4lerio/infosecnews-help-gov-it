@@ -12,7 +12,7 @@
     "uptimeYear": "99.82%",
     "time": 1764,
     "timeDay": 1591,
-    "timeWeek": 1651,
+    "timeWeek": 1639,
     "timeMonth": 1731,
     "timeYear": 1764,
     "dailyMinutesDown": {
@@ -39,24 +39,24 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "14.55%",
-    "uptimeWeek": "46.96%",
-    "uptimeMonth": "87.80%",
-    "uptimeYear": "97.53%",
+    "status": "down",
+    "uptime": "97.55%",
+    "uptimeDay": "14.66%",
+    "uptimeWeek": "47.35%",
+    "uptimeMonth": "87.88%",
+    "uptimeYear": "97.55%",
     "time": 7106,
-    "timeDay": 10899,
+    "timeDay": 11055,
     "timeWeek": 8570,
-    "timeMonth": 7695,
+    "timeMonth": 7699,
     "timeYear": 7106,
     "dailyMinutesDown": {
-      "2021-09-23": 1194,
+      "2021-09-23": 1195,
       "2021-09-22": 1162,
       "2021-09-21": 905,
       "2021-09-20": 805,
       "2021-09-19": 1014,
-      "2021-09-18": 265
+      "2021-09-18": 225
     }
   },
   {
@@ -73,7 +73,7 @@
     "time": 473,
     "timeDay": 685,
     "timeWeek": 453,
-    "timeMonth": 489,
+    "timeMonth": 493,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2021-05-13": 15
@@ -93,7 +93,7 @@
     "time": 677,
     "timeDay": 835,
     "timeWeek": 719,
-    "timeMonth": 597,
+    "timeMonth": 599,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2021-07-28": 15,
@@ -109,17 +109,17 @@
     "slug": "esteri",
     "status": "up",
     "uptime": "98.09%",
-    "uptimeDay": "90.17%",
-    "uptimeWeek": "86.48%",
-    "uptimeMonth": "90.55%",
+    "uptimeDay": "90.94%",
+    "uptimeWeek": "86.67%",
+    "uptimeMonth": "90.53%",
     "uptimeYear": "98.09%",
     "time": 5803,
     "timeDay": 5430,
-    "timeWeek": 5352,
+    "timeWeek": 5363,
     "timeMonth": 6368,
     "timeYear": 5803,
     "dailyMinutesDown": {
-      "2021-09-23": 142,
+      "2021-09-23": 131,
       "2021-09-22": 154,
       "2021-09-21": 104,
       "2021-09-20": 93,
@@ -133,7 +133,7 @@
       "2021-09-11": 59,
       "2021-09-10": 354,
       "2021-09-09": 544,
-      "2021-09-08": 167
+      "2021-09-08": 185
     }
   },
   {
@@ -149,8 +149,8 @@
     "uptimeYear": "99.63%",
     "time": 1967,
     "timeDay": 1728,
-    "timeWeek": 1775,
-    "timeMonth": 1629,
+    "timeWeek": 1780,
+    "timeMonth": 1637,
     "timeYear": 1967,
     "dailyMinutesDown": {
       "2021-09-13": 23,
@@ -186,8 +186,8 @@
     "uptimeYear": "100.00%",
     "time": 1170,
     "timeDay": 675,
-    "timeWeek": 1479,
-    "timeMonth": 871,
+    "timeWeek": 1751,
+    "timeMonth": 890,
     "timeYear": 1170,
     "dailyMinutesDown": {}
   },
@@ -205,7 +205,7 @@
     "time": 4568,
     "timeDay": 2443,
     "timeWeek": 2199,
-    "timeMonth": 5018,
+    "timeMonth": 5019,
     "timeYear": 4568,
     "dailyMinutesDown": {
       "2021-09-02": 17,
@@ -238,7 +238,7 @@
     "time": 2216,
     "timeDay": 3311,
     "timeWeek": 2668,
-    "timeMonth": 2234,
+    "timeMonth": 2253,
     "timeYear": 2216,
     "dailyMinutesDown": {
       "2021-05-20": 20
@@ -258,7 +258,7 @@
     "time": 3955,
     "timeDay": 3280,
     "timeWeek": 5016,
-    "timeMonth": 4026,
+    "timeMonth": 4096,
     "timeYear": 3955,
     "dailyMinutesDown": {
       "2021-06-24": 30,
@@ -279,7 +279,7 @@
     "time": 2120,
     "timeDay": 3856,
     "timeWeek": 1975,
-    "timeMonth": 2541,
+    "timeMonth": 2574,
     "timeYear": 2120,
     "dailyMinutesDown": {
       "2021-09-16": 806,
