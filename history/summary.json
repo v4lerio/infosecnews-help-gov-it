@@ -39,24 +39,24 @@
     "url": "https://www.agenziaentrate.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
-    "status": "up",
-    "uptime": "97.75%",
-    "uptimeDay": "23.94%",
-    "uptimeWeek": "50.35%",
-    "uptimeMonth": "88.58%",
-    "uptimeYear": "97.75%",
+    "status": "degraded",
+    "uptime": "97.77%",
+    "uptimeDay": "24.54%",
+    "uptimeWeek": "50.71%",
+    "uptimeMonth": "88.66%",
+    "uptimeYear": "97.77%",
     "time": 7173,
-    "timeDay": 9669,
-    "timeWeek": 8478,
-    "timeMonth": 7953,
+    "timeDay": 9664,
+    "timeWeek": 8480,
+    "timeMonth": 7954,
     "timeYear": 7173,
     "dailyMinutesDown": {
-      "2021-09-28": 309,
+      "2021-09-28": 310,
       "2021-09-27": 1028,
       "2021-09-26": 898,
       "2021-09-25": 932,
       "2021-09-24": 799,
-      "2021-09-23": 1038
+      "2021-09-23": 1002
     }
   },
   {
@@ -430,9 +430,9 @@
     "slug": "beni-culturali",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "86.05%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "85.44%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.80%",
     "time": 2056,
     "timeDay": 2201,
@@ -440,7 +440,7 @@
     "timeMonth": 2047,
     "timeYear": 2056,
     "dailyMinutesDown": {
-      "2021-09-28": 201,
+      "2021-09-28": 210,
       "2021-08-11": 224,
       "2021-04-27": 21
     }
