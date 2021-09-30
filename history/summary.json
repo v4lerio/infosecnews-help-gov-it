@@ -41,22 +41,22 @@
     "slug": "agenzia-delle-entrate",
     "status": "up",
     "uptime": "97.93%",
-    "uptimeDay": "38.71%",
-    "uptimeWeek": "53.70%",
-    "uptimeMonth": "89.34%",
+    "uptimeDay": "39.19%",
+    "uptimeWeek": "53.57%",
+    "uptimeMonth": "89.32%",
     "uptimeYear": "97.93%",
     "time": 7210,
-    "timeDay": 8091,
+    "timeDay": 8140,
     "timeWeek": 8502,
-    "timeMonth": 8087,
+    "timeMonth": 8086,
     "timeYear": 7210,
     "dailyMinutesDown": {
-      "2021-09-30": 225,
+      "2021-09-30": 218,
       "2021-09-29": 961,
       "2021-09-28": 1043,
       "2021-09-27": 1028,
       "2021-09-26": 898,
-      "2021-09-25": 508
+      "2021-09-25": 528
     }
   },
   {
@@ -107,19 +107,19 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "92.84%",
-    "uptimeWeek": "89.09%",
-    "uptimeMonth": "91.02%",
-    "uptimeYear": "98.26%",
+    "status": "degraded",
+    "uptime": "98.27%",
+    "uptimeDay": "92.75%",
+    "uptimeWeek": "89.08%",
+    "uptimeMonth": "91.08%",
+    "uptimeYear": "98.27%",
     "time": 5772,
-    "timeDay": 5362,
+    "timeDay": 5368,
     "timeWeek": 5440,
-    "timeMonth": 5821,
+    "timeMonth": 5809,
     "timeYear": 5772,
     "dailyMinutesDown": {
-      "2021-09-30": 38,
+      "2021-09-30": 39,
       "2021-09-29": 65,
       "2021-09-28": 137,
       "2021-09-27": 67,
@@ -135,7 +135,7 @@
       "2021-09-16": 1035,
       "2021-09-15": 376,
       "2021-09-14": 169,
-      "2021-09-13": 59
+      "2021-09-13": 31
     }
   },
   {
@@ -405,7 +405,7 @@
     "time": 1416,
     "timeDay": 1669,
     "timeWeek": 1463,
-    "timeMonth": 1745,
+    "timeMonth": 1558,
     "timeYear": 1416,
     "dailyMinutesDown": {
       "2021-09-19": 24,
