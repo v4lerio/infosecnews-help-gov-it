@@ -1,7 +1,7 @@
 url: https://www.agenziaentrate.gov.it/
-status: up
+status: degraded
 code: 200
-responseTime: 3224
-lastUpdated: 2021-10-20T13:46:13.788Z
+responseTime: 7563
+lastUpdated: 2021-10-20T19:54:07.998Z
 startTime: Mon Apr 26 2021 11:18:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
