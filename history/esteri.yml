@@ -1,7 +1,7 @@
 url: https://www.esteri.it/
-status: up
+status: degraded
 code: 200
-responseTime: 4911
-lastUpdated: 2021-10-24T02:51:48.334Z
+responseTime: 5875
+lastUpdated: 2021-10-24T02:57:57.617Z
 startTime: Mon Apr 26 2021 11:23:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
