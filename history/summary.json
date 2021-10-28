@@ -120,18 +120,17 @@
     "slug": "esteri",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "84.11%",
-    "uptimeWeek": "76.47%",
-    "uptimeMonth": "93.46%",
+    "uptimeDay": "84.70%",
+    "uptimeWeek": "76.55%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "98.92%",
     "time": 5695,
-    "timeDay": 5436,
+    "timeDay": 5446,
     "timeWeek": 5441,
     "timeMonth": 5458,
     "timeYear": 5695,
     "dailyMinutesDown": {
-      "2021-10-28": 5,
-      "2021-10-27": 224,
+      "2021-10-27": 220,
       "2021-10-26": 229,
       "2021-10-25": 127,
       "2021-10-24": 499,
@@ -145,7 +144,7 @@
       "2021-10-16": 19,
       "2021-10-15": 115,
       "2021-10-14": 150,
-      "2021-10-13": 47
+      "2021-10-13": 65
     }
   },
   {
@@ -156,7 +155,7 @@
     "status": "up",
     "uptime": "93.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.82%",
+    "uptimeWeek": "80.85%",
     "uptimeMonth": "60.79%",
     "uptimeYear": "93.23%",
     "time": 2284,
