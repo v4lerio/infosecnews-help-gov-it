@@ -43,18 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/www.agenziaentrate.gov.it",
     "slug": "agenzia-delle-entrate",
     "status": "up",
-    "uptime": "98.32%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "98.32%",
+    "uptime": "98.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.31%",
     "time": 7125,
     "timeDay": 3438,
-    "timeWeek": 4771,
-    "timeMonth": 5374,
+    "timeWeek": 4743,
+    "timeMonth": 5381,
     "timeYear": 7125,
     "dailyMinutesDown": {
-      "2021-10-31": 5,
       "2021-10-24": 23,
       "2021-10-23": 63,
       "2021-10-21": 18,
@@ -68,7 +67,7 @@
       "2021-09-29": 961,
       "2021-09-28": 1043,
       "2021-09-27": 1028,
-      "2021-09-26": 845
+      "2021-09-26": 871
     }
   },
   {
@@ -119,19 +118,19 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "90.46%",
-    "uptimeMonth": "93.39%",
-    "uptimeYear": "98.93%",
+    "status": "degraded",
+    "uptime": "98.94%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "90.81%",
+    "uptimeMonth": "93.42%",
+    "uptimeYear": "98.94%",
     "time": 5691,
-    "timeDay": 5346,
-    "timeWeek": 5476,
+    "timeDay": 5352,
+    "timeWeek": 5478,
     "timeMonth": 5462,
     "timeYear": 5691,
     "dailyMinutesDown": {
-      "2021-10-31": 23,
+      "2021-10-31": 24,
       "2021-10-30": 51,
       "2021-10-29": 86,
       "2021-10-28": 94,
@@ -147,7 +146,7 @@
       "2021-10-18": 74,
       "2021-10-17": 19,
       "2021-10-16": 19,
-      "2021-10-15": 98
+      "2021-10-15": 80
     }
   },
   {
@@ -316,7 +315,7 @@
     "uptimeYear": "99.37%",
     "time": 1703,
     "timeDay": 1323,
-    "timeWeek": 1536,
+    "timeWeek": 1533,
     "timeMonth": 1508,
     "timeYear": 1703,
     "dailyMinutesDown": {
