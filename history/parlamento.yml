@@ -1,7 +1,7 @@
 url: https://www.parlamento.it/
-status: degraded
+status: down
 code: 502
-responseTime: 20876
-lastUpdated: 2022-01-04T18:56:08.846Z
+responseTime: 936
+lastUpdated: 2022-01-04T19:01:17.003Z
 startTime: Mon Apr 26 2021 11:18:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
