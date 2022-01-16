@@ -125,7 +125,7 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "degraded",
+    "status": "down",
     "uptime": "72.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -137,7 +137,7 @@
     "timeMonth": 8446,
     "timeYear": 5769,
     "dailyMinutesDown": {
-      "2022-01-16": 955,
+      "2022-01-16": 961,
       "2022-01-15": 1440,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
