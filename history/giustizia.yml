@@ -1,7 +1,7 @@
 url: https://www.giustizia.it/
-status: down
-code: 503
-responseTime: 4120
-lastUpdated: 2022-03-17T10:33:24.054Z
+status: up
+code: 200
+responseTime: 3005
+lastUpdated: 2022-03-17T10:41:17.609Z
 startTime: Mon Apr 26 2021 11:23:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
