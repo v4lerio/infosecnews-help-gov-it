@@ -139,7 +139,7 @@
     "timeMonth": 9005,
     "timeYear": 5833,
     "dailyMinutesDown": {
-      "2022-03-18": 688,
+      "2022-03-18": 693,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
@@ -623,7 +623,7 @@
     "url": "https://www.mit.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.mit.gov.it",
     "slug": "infrastrutture-e-trasporti",
-    "status": "degraded",
+    "status": "down",
     "uptime": "85.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -635,7 +635,7 @@
     "timeMonth": 4975,
     "timeYear": 4046,
     "dailyMinutesDown": {
-      "2022-03-18": 689,
+      "2022-03-18": 695,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
