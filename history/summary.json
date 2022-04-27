@@ -65,7 +65,7 @@
     "timeDay": 1976,
     "timeWeek": 2110,
     "timeMonth": 2257,
-    "timeYear": 6991,
+    "timeYear": 6992,
     "dailyMinutesDown": {
       "2022-03-30": 551,
       "2022-02-14": 29,
@@ -117,7 +117,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 641,
     "timeDay": 857,
     "timeWeek": 586,
@@ -125,8 +125,7 @@
     "timeYear": 641,
     "dailyMinutesDown": {
       "2021-07-28": 15,
-      "2021-07-22": 58,
-      "2021-04-27": 803
+      "2021-07-22": 58
     }
   },
   {
@@ -139,14 +138,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.24%",
+    "uptimeYear": "52.23%",
     "time": 5876,
     "timeDay": 6983,
     "timeWeek": 10017,
     "timeMonth": 9785,
     "timeYear": 5876,
     "dailyMinutesDown": {
-      "2022-04-26": 1399,
+      "2022-04-27": 22,
+      "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
@@ -340,9 +340,9 @@
     "slug": "giustizia",
     "status": "up",
     "uptime": "95.04%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "95.04%",
     "time": 2958,
     "timeDay": 1587,
@@ -350,7 +350,6 @@
     "timeMonth": 1721,
     "timeYear": 2974,
     "dailyMinutesDown": {
-      "2022-04-26": 8,
       "2022-04-19": 46,
       "2022-03-23": 493,
       "2022-03-22": 53,
@@ -414,7 +413,7 @@
     "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.63%",
+    "uptimeMonth": "94.78%",
     "uptimeYear": "98.86%",
     "time": 992,
     "timeDay": 625,
@@ -486,8 +485,7 @@
       "2021-05-25": 27,
       "2021-05-18": 23,
       "2021-04-29": 16,
-      "2021-04-28": 492,
-      "2021-04-27": 396
+      "2021-04-28": 492
     }
   },
   {
@@ -526,7 +524,7 @@
     "uptimeYear": "99.27%",
     "time": 5915,
     "timeDay": 3413,
-    "timeWeek": 5863,
+    "timeWeek": 5985,
     "timeMonth": 7186,
     "timeYear": 5939,
     "dailyMinutesDown": {
@@ -711,18 +709,19 @@
     "icon": "https://favicons.githubusercontent.com/www.mit.gov.it",
     "slug": "infrastrutture-e-trasporti",
     "status": "down",
-    "uptime": "75.90%",
+    "uptime": "75.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.87%",
+    "uptimeYear": "75.85%",
     "time": 4103,
     "timeDay": 1593,
     "timeWeek": 1695,
     "timeMonth": 3071,
     "timeYear": 4115,
     "dailyMinutesDown": {
-      "2022-04-26": 1400,
+      "2022-04-27": 24,
+      "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
@@ -844,8 +843,7 @@
       "2021-05-20": 93,
       "2021-05-19": 121,
       "2021-05-18": 58,
-      "2021-05-13": 62,
-      "2021-04-27": 25
+      "2021-05-13": 62
     }
   },
   {
@@ -875,18 +873,19 @@
     "icon": "https://favicons.githubusercontent.com/www.mite.gov.it",
     "slug": "ambiente",
     "status": "down",
-    "uptime": "91.21%",
+    "uptime": "91.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.86%",
-    "uptimeYear": "91.21%",
+    "uptimeMonth": "28.71%",
+    "uptimeYear": "91.19%",
     "time": 1343,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1284,
     "timeYear": 1340,
     "dailyMinutesDown": {
-      "2022-04-26": 1400,
+      "2022-04-27": 24,
+      "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
@@ -947,8 +946,7 @@
       "2021-11-18": 37,
       "2021-10-26": 267,
       "2021-09-28": 274,
-      "2021-08-11": 224,
-      "2021-04-27": 21
+      "2021-08-11": 224
     }
   }
 ]
