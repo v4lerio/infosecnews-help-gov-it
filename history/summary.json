@@ -147,7 +147,7 @@
     "timeMonth": 9884,
     "timeYear": 5884,
     "dailyMinutesDown": {
-      "2022-05-06": 1233,
+      "2022-05-06": 1239,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
@@ -591,7 +591,7 @@
     "time": 1531,
     "timeDay": 844,
     "timeWeek": 931,
-    "timeMonth": 1098,
+    "timeMonth": 1100,
     "timeYear": 1531,
     "dailyMinutesDown": {
       "2022-05-04": 17,
@@ -741,7 +741,7 @@
     "timeMonth": 2378,
     "timeYear": 4132,
     "dailyMinutesDown": {
-      "2022-05-06": 1234,
+      "2022-05-06": 1240,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
@@ -881,19 +881,19 @@
     "url": "https://www.politicheagricole.it/",
     "icon": "https://favicons.githubusercontent.com/www.politicheagricole.it",
     "slug": "politiche-agricole",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 1959,
-    "timeDay": 2126,
-    "timeWeek": 2199,
-    "timeMonth": 1825,
-    "timeYear": 1967,
+    "timeDay": 1990,
+    "timeWeek": 2161,
+    "timeMonth": 1828,
+    "timeYear": 1966,
     "dailyMinutesDown": {
-      "2022-05-06": 3,
+      "2022-05-06": 6,
       "2022-02-22": 125,
       "2022-02-17": 38
     }
@@ -915,7 +915,7 @@
     "timeMonth": 0,
     "timeYear": 1344,
     "dailyMinutesDown": {
-      "2022-05-06": 1234,
+      "2022-05-06": 1241,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
