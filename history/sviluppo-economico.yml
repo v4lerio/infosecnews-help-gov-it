@@ -1,7 +1,7 @@
 url: https://www.mise.gov.it/
-status: up
+status: degraded
 code: 200
-responseTime: 4744
-lastUpdated: 2022-05-06T09:50:42.123Z
+responseTime: 13217
+lastUpdated: 2022-05-06T10:20:45.137Z
 startTime: Mon Apr 26 2021 11:32:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
