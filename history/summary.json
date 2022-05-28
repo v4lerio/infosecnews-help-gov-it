@@ -67,7 +67,7 @@
     "timeDay": 3220,
     "timeWeek": 2280,
     "timeMonth": 2191,
-    "timeYear": 7070,
+    "timeYear": 7069,
     "dailyMinutesDown": {
       "2022-05-26": 17,
       "2022-05-15": 22,
@@ -148,7 +148,8 @@
     "timeMonth": 10325,
     "timeYear": 5954,
     "dailyMinutesDown": {
-      "2022-05-27": 1433,
+      "2022-05-28": 19,
+      "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
@@ -374,7 +375,7 @@
     "status": "up",
     "uptime": "94.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "66.95%",
+    "uptimeWeek": "67.21%",
     "uptimeMonth": "90.18%",
     "uptimeYear": "94.28%",
     "time": 2968,
@@ -432,8 +433,7 @@
       "2021-06-22": 32,
       "2021-06-13": 23,
       "2021-06-09": 23,
-      "2021-06-01": 31,
-      "2021-05-28": 35
+      "2021-06-01": 31
     }
   },
   {
@@ -469,9 +469,9 @@
     "slug": "difesa",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "73.56%",
-    "uptimeMonth": "92.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "73.87%",
+    "uptimeMonth": "92.03%",
     "uptimeYear": "99.00%",
     "time": 4598,
     "timeDay": 1950,
@@ -479,7 +479,6 @@
     "timeMonth": 4682,
     "timeYear": 4713,
     "dailyMinutesDown": {
-      "2022-05-27": 5,
       "2022-05-24": 400,
       "2022-05-23": 322,
       "2022-05-22": 493,
@@ -525,8 +524,7 @@
       "2021-06-15": 18,
       "2021-06-11": 16,
       "2021-06-08": 32,
-      "2021-05-31": 15,
-      "2021-05-28": 16
+      "2021-05-31": 15
     }
   },
   {
@@ -762,14 +760,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.09%",
     "uptimeMonth": "1.40%",
-    "uptimeYear": "67.44%",
+    "uptimeYear": "67.43%",
     "time": 4062,
     "timeDay": 1761,
     "timeWeek": 2440,
     "timeMonth": 2406,
     "timeYear": 4149,
     "dailyMinutesDown": {
-      "2022-05-27": 1434,
+      "2022-05-28": 20,
+      "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
@@ -948,18 +947,19 @@
     "icon": "https://favicons.githubusercontent.com/www.mite.gov.it",
     "slug": "ambiente",
     "status": "down",
-    "uptime": "84.08%",
+    "uptime": "84.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.71%",
+    "uptimeYear": "82.70%",
     "time": 1343,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1348,
     "dailyMinutesDown": {
-      "2022-05-27": 1434,
+      "2022-05-28": 20,
+      "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
@@ -1038,7 +1038,7 @@
     "uptime": "97.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.75%",
+    "uptimeMonth": "73.69%",
     "uptimeYear": "97.59%",
     "time": 2475,
     "timeDay": 0,
@@ -1046,7 +1046,8 @@
     "timeMonth": 3758,
     "timeYear": 2519,
     "dailyMinutesDown": {
-      "2022-05-27": 1435,
+      "2022-05-28": 20,
+      "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
