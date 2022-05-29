@@ -136,11 +136,11 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "up",
-    "uptime": "48.13%",
-    "uptimeDay": "10.05%",
-    "uptimeWeek": "1.78%",
-    "uptimeMonth": "2.00%",
+    "status": "down",
+    "uptime": "48.14%",
+    "uptimeDay": "9.93%",
+    "uptimeWeek": "1.83%",
+    "uptimeMonth": "2.02%",
     "uptimeYear": "43.45%",
     "time": 5935,
     "timeDay": 859,
@@ -148,7 +148,7 @@
     "timeMonth": 9574,
     "timeYear": 5948,
     "dailyMinutesDown": {
-      "2022-05-29": 618,
+      "2022-05-29": 620,
       "2022-05-28": 1284,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
@@ -364,7 +364,7 @@
       "2021-10-28": 94,
       "2021-10-27": 220,
       "2021-10-26": 229,
-      "2021-10-25": 79
+      "2021-10-25": 55
     }
   },
   {
@@ -375,7 +375,7 @@
     "status": "up",
     "uptime": "94.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.67%",
+    "uptimeWeek": "87.74%",
     "uptimeMonth": "90.18%",
     "uptimeYear": "94.29%",
     "time": 2966,
@@ -755,7 +755,7 @@
     "icon": "https://favicons.githubusercontent.com/www.mit.gov.it",
     "slug": "infrastrutture-e-trasporti",
     "status": "down",
-    "uptime": "69.71%",
+    "uptime": "69.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.09%",
     "uptimeMonth": "1.40%",
@@ -766,7 +766,7 @@
     "timeMonth": 2417,
     "timeYear": 4149,
     "dailyMinutesDown": {
-      "2022-05-29": 643,
+      "2022-05-29": 650,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
@@ -958,7 +958,7 @@
     "timeMonth": 0,
     "timeYear": 1347,
     "dailyMinutesDown": {
-      "2022-05-29": 643,
+      "2022-05-29": 650,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
@@ -1039,7 +1039,7 @@
     "uptime": "97.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.98%",
+    "uptimeMonth": "68.97%",
     "uptimeYear": "97.20%",
     "time": 2475,
     "timeDay": 0,
@@ -1047,7 +1047,7 @@
     "timeMonth": 3802,
     "timeYear": 2520,
     "dailyMinutesDown": {
-      "2022-05-29": 643,
+      "2022-05-29": 650,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
