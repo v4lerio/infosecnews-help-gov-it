@@ -65,7 +65,7 @@
     "timeDay": 2706,
     "timeWeek": 2682,
     "timeMonth": 2679,
-    "timeYear": 6932,
+    "timeYear": 6933,
     "dailyMinutesDown": {
       "2022-06-24": 15,
       "2022-05-26": 17,
@@ -150,7 +150,7 @@
     "timeMonth": 7676,
     "timeYear": 6041,
     "dailyMinutesDown": {
-      "2022-07-10": 505,
+      "2022-07-10": 515,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1382,
@@ -484,7 +484,7 @@
     "icon": "https://favicons.githubusercontent.com/www.interno.gov.it",
     "slug": "interno",
     "status": "down",
-    "uptime": "91.39%",
+    "uptime": "91.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -495,7 +495,7 @@
     "timeMonth": 1203,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2022-07-10": 506,
+      "2022-07-10": 516,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
@@ -544,19 +544,19 @@
     "url": "https://www.difesa.it/",
     "icon": "https://favicons.githubusercontent.com/www.difesa.it",
     "slug": "difesa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "59.52%",
-    "uptimeWeek": "84.51%",
+    "uptimeDay": "59.38%",
+    "uptimeWeek": "84.49%",
     "uptimeMonth": "96.20%",
     "uptimeYear": "98.71%",
-    "time": 4474,
+    "time": 4464,
     "timeDay": 2512,
     "timeWeek": 2589,
     "timeMonth": 3052,
     "timeYear": 4430,
     "dailyMinutesDown": {
-      "2022-07-10": 264,
+      "2022-07-10": 266,
       "2022-07-09": 432,
       "2022-07-08": 526,
       "2022-07-07": 302,
@@ -604,8 +604,7 @@
       "2021-11-09": 16,
       "2021-11-08": 16,
       "2021-10-15": 96,
-      "2021-09-02": 17,
-      "2021-07-27": 29
+      "2021-09-02": 17
     }
   },
   {
@@ -839,7 +838,7 @@
     "icon": "https://favicons.githubusercontent.com/www.mit.gov.it",
     "slug": "infrastrutture-e-trasporti",
     "status": "down",
-    "uptime": "63.07%",
+    "uptime": "63.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -850,7 +849,7 @@
     "timeMonth": 2379,
     "timeYear": 4177,
     "dailyMinutesDown": {
-      "2022-07-10": 507,
+      "2022-07-10": 516,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
@@ -1084,7 +1083,7 @@
     "timeMonth": 0,
     "timeYear": 1348,
     "dailyMinutesDown": {
-      "2022-07-10": 507,
+      "2022-07-10": 517,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
