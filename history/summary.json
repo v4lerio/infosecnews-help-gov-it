@@ -150,7 +150,7 @@
     "timeMonth": 7609,
     "timeYear": 6052,
     "dailyMinutesDown": {
-      "2022-07-13": 1148,
+      "2022-07-13": 1157,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -488,7 +488,7 @@
     "icon": "https://favicons.githubusercontent.com/www.interno.gov.it",
     "slug": "interno",
     "status": "down",
-    "uptime": "90.68%",
+    "uptime": "90.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -499,7 +499,7 @@
     "timeMonth": 1229,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2022-07-13": 1149,
+      "2022-07-13": 1159,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -551,25 +551,25 @@
     "url": "https://www.difesa.it/",
     "icon": "https://favicons.githubusercontent.com/www.difesa.it",
     "slug": "difesa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "49.04%",
-    "uptimeWeek": "64.98%",
-    "uptimeMonth": "91.94%",
+    "uptimeDay": "48.80%",
+    "uptimeWeek": "65.11%",
+    "uptimeMonth": "91.97%",
     "uptimeYear": "99.33%",
-    "time": 4220,
+    "time": 4222,
     "timeDay": 2421,
     "timeWeek": 2351,
     "timeMonth": 2746,
     "timeYear": 4231,
     "dailyMinutesDown": {
-      "2022-07-13": 614,
+      "2022-07-13": 617,
       "2022-07-12": 631,
       "2022-07-11": 536,
       "2022-07-10": 627,
       "2022-07-09": 432,
       "2022-07-08": 526,
-      "2022-07-07": 168
+      "2022-07-07": 151
     }
   },
   {
@@ -661,9 +661,9 @@
     "slug": "universita-e-ricerca-mur",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.54%",
     "time": 1491,
     "timeDay": 917,
@@ -671,7 +671,6 @@
     "timeMonth": 1244,
     "timeYear": 1484,
     "dailyMinutesDown": {
-      "2022-07-13": 5,
       "2022-07-08": 17,
       "2022-07-07": 16,
       "2022-07-01": 47,
@@ -745,7 +744,8 @@
       "2021-12-09": 22,
       "2021-12-08": 17,
       "2021-12-07": 50,
-      "2021-12-01": 17
+      "2021-12-01": 17,
+      "2021-11-30": 16
     }
   },
   {
@@ -814,7 +814,7 @@
     "timeMonth": 2827,
     "timeYear": 4199,
     "dailyMinutesDown": {
-      "2022-07-13": 1149,
+      "2022-07-13": 1160,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -1050,7 +1050,7 @@
     "timeMonth": 0,
     "timeYear": 1349,
     "dailyMinutesDown": {
-      "2022-07-13": 1149,
+      "2022-07-13": 1160,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -1183,7 +1183,7 @@
     "timeMonth": 1974,
     "timeYear": 2509,
     "dailyMinutesDown": {
-      "2022-07-13": 364,
+      "2022-07-13": 375,
       "2022-07-12": 659,
       "2022-07-11": 669,
       "2022-07-10": 659,
