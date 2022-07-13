@@ -150,7 +150,7 @@
     "timeMonth": 7635,
     "timeYear": 6049,
     "dailyMinutesDown": {
-      "2022-07-13": 348,
+      "2022-07-13": 353,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -498,7 +498,7 @@
     "timeMonth": 1229,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2022-07-13": 348,
+      "2022-07-13": 353,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -550,19 +550,19 @@
     "url": "https://www.difesa.it/",
     "icon": "https://favicons.githubusercontent.com/www.difesa.it",
     "slug": "difesa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "49.06%",
-    "uptimeWeek": "67.44%",
-    "uptimeMonth": "92.30%",
+    "uptimeDay": "49.88%",
+    "uptimeWeek": "67.56%",
+    "uptimeMonth": "92.33%",
     "uptimeYear": "99.36%",
-    "time": 4287,
+    "time": 4289,
     "timeDay": 2238,
     "timeWeek": 2347,
     "timeMonth": 2770,
     "timeYear": 4263,
     "dailyMinutesDown": {
-      "2022-07-13": 233,
+      "2022-07-13": 221,
       "2022-07-12": 631,
       "2022-07-11": 536,
       "2022-07-10": 627,
@@ -664,9 +664,9 @@
     "slug": "universita-e-ricerca-mur",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.54%",
     "time": 1491,
     "timeDay": 1145,
@@ -674,7 +674,6 @@
     "timeMonth": 1250,
     "timeYear": 1484,
     "dailyMinutesDown": {
-      "2022-07-13": 6,
       "2022-07-08": 17,
       "2022-07-07": 16,
       "2022-07-01": 47,
@@ -748,7 +747,8 @@
       "2021-12-09": 22,
       "2021-12-08": 17,
       "2021-12-07": 50,
-      "2021-12-01": 17
+      "2021-12-01": 17,
+      "2021-11-30": 16
     }
   },
   {
@@ -817,7 +817,7 @@
     "timeMonth": 2760,
     "timeYear": 4199,
     "dailyMinutesDown": {
-      "2022-07-13": 349,
+      "2022-07-13": 354,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -1053,7 +1053,7 @@
     "timeMonth": 0,
     "timeYear": 1349,
     "dailyMinutesDown": {
-      "2022-07-13": 349,
+      "2022-07-13": 354,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
