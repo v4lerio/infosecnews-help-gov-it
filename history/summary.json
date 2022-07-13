@@ -150,7 +150,7 @@
     "timeMonth": 7602,
     "timeYear": 6050,
     "dailyMinutesDown": {
-      "2022-07-13": 675,
+      "2022-07-13": 684,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -498,7 +498,7 @@
     "timeMonth": 1229,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2022-07-13": 675,
+      "2022-07-13": 685,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -550,19 +550,19 @@
     "url": "https://www.difesa.it/",
     "icon": "https://favicons.githubusercontent.com/www.difesa.it",
     "slug": "difesa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "44.80%",
-    "uptimeWeek": "65.99%",
-    "uptimeMonth": "92.17%",
+    "uptimeDay": "45.90%",
+    "uptimeWeek": "66.05%",
+    "uptimeMonth": "92.19%",
     "uptimeYear": "99.35%",
-    "time": 4293,
+    "time": 4295,
     "timeDay": 2215,
     "timeWeek": 2328,
     "timeMonth": 2739,
     "timeYear": 4244,
     "dailyMinutesDown": {
-      "2022-07-13": 403,
+      "2022-07-13": 396,
       "2022-07-12": 631,
       "2022-07-11": 536,
       "2022-07-10": 627,
@@ -600,9 +600,9 @@
     "slug": "sviluppo-economico",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.12%",
     "time": 6144,
     "timeDay": 2281,
@@ -610,7 +610,6 @@
     "timeMonth": 5815,
     "timeYear": 6349,
     "dailyMinutesDown": {
-      "2022-07-13": 8,
       "2022-07-06": 19,
       "2022-07-05": 85,
       "2022-06-28": 16,
@@ -651,7 +650,7 @@
       "2021-11-18": 16,
       "2021-11-08": 51,
       "2021-10-27": 80,
-      "2021-10-26": 29
+      "2021-10-26": 46
     }
   },
   {
@@ -814,7 +813,7 @@
     "timeMonth": 2827,
     "timeYear": 4199,
     "dailyMinutesDown": {
-      "2022-07-13": 676,
+      "2022-07-13": 686,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -1050,7 +1049,7 @@
     "timeMonth": 0,
     "timeYear": 1349,
     "dailyMinutesDown": {
-      "2022-07-13": 676,
+      "2022-07-13": 686,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
