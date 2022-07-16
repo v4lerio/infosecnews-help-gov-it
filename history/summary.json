@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 1305,
     "timeMonth": 1418,
-    "timeYear": 1841,
+    "timeYear": 1843,
     "dailyMinutesDown": {
       "2022-07-14": 140,
       "2022-06-11": 42,
@@ -150,7 +150,7 @@
     "timeMonth": 7560,
     "timeYear": 6060,
     "dailyMinutesDown": {
-      "2022-07-16": 806,
+      "2022-07-16": 816,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
@@ -503,7 +503,7 @@
     "timeMonth": 1380,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2022-07-16": 807,
+      "2022-07-16": 817,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
@@ -558,25 +558,25 @@
     "url": "https://www.difesa.it/",
     "icon": "https://favicons.githubusercontent.com/www.difesa.it",
     "slug": "difesa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "63.60%",
-    "uptimeWeek": "63.17%",
-    "uptimeMonth": "91.52%",
-    "uptimeYear": "99.29%",
-    "time": 4086,
+    "uptimeDay": "64.18%",
+    "uptimeWeek": "63.33%",
+    "uptimeMonth": "91.56%",
+    "uptimeYear": "99.30%",
+    "time": 4087,
     "timeDay": 2437,
     "timeWeek": 2254,
     "timeMonth": 2619,
     "timeYear": 4072,
     "dailyMinutesDown": {
-      "2022-07-16": 332,
+      "2022-07-16": 334,
       "2022-07-15": 470,
       "2022-07-14": 634,
       "2022-07-13": 747,
       "2022-07-12": 631,
       "2022-07-11": 536,
-      "2022-07-10": 363
+      "2022-07-10": 345
     }
   },
   {
@@ -770,7 +770,7 @@
     "uptimeYear": "96.48%",
     "time": 2698,
     "timeDay": 1251,
-    "timeWeek": 6515,
+    "timeWeek": 6288,
     "timeMonth": 5069,
     "timeYear": 2858,
     "dailyMinutesDown": {
@@ -821,7 +821,7 @@
     "timeMonth": 2991,
     "timeYear": 4207,
     "dailyMinutesDown": {
-      "2022-07-16": 807,
+      "2022-07-16": 818,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
@@ -1060,7 +1060,7 @@
     "timeMonth": 0,
     "timeYear": 1347,
     "dailyMinutesDown": {
-      "2022-07-16": 808,
+      "2022-07-16": 818,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
