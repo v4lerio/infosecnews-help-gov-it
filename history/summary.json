@@ -138,19 +138,19 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "up",
+    "status": "degraded",
     "uptime": "42.90%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "1.53%",
+    "uptimeDay": "0.72%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "1.55%",
     "uptimeYear": "29.84%",
     "time": 6054,
-    "timeDay": 4531,
-    "timeWeek": 7868,
-    "timeMonth": 7442,
+    "timeDay": 5192,
+    "timeWeek": 7698,
+    "timeMonth": 7427,
     "timeYear": 6066,
     "dailyMinutesDown": {
-      "2022-07-18": 1329,
+      "2022-07-18": 1331,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -411,7 +411,7 @@
       "2021-11-02": 118,
       "2021-11-01": 176,
       "2021-10-31": 71,
-      "2021-10-30": 30
+      "2021-10-30": 15
     }
   },
   {
@@ -505,7 +505,7 @@
     "timeMonth": 1394,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2022-07-18": 1332,
+      "2022-07-18": 1342,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -564,13 +564,13 @@
     "slug": "difesa",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "69.67%",
+    "uptimeDay": "70.35%",
     "uptimeWeek": "62.44%",
     "uptimeMonth": "91.36%",
     "uptimeYear": "99.28%",
     "time": 4039,
     "timeDay": 2311,
-    "timeWeek": 2349,
+    "timeWeek": 2343,
     "timeMonth": 2597,
     "timeYear": 3970,
     "dailyMinutesDown": {
@@ -825,7 +825,7 @@
     "timeMonth": 3235,
     "timeYear": 4216,
     "dailyMinutesDown": {
-      "2022-07-18": 1333,
+      "2022-07-18": 1342,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -1064,7 +1064,7 @@
     "timeMonth": 0,
     "timeYear": 1347,
     "dailyMinutesDown": {
-      "2022-07-18": 1333,
+      "2022-07-18": 1343,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -1197,7 +1197,7 @@
     "timeMonth": 1994,
     "timeYear": 2509,
     "dailyMinutesDown": {
-      "2022-07-18": 566,
+      "2022-07-18": 575,
       "2022-07-17": 659,
       "2022-07-16": 660,
       "2022-07-15": 662,
