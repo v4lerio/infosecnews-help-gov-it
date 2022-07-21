@@ -150,7 +150,7 @@
     "timeMonth": 7411,
     "timeYear": 6081,
     "dailyMinutesDown": {
-      "2022-07-21": 977,
+      "2022-07-21": 990,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1429,
@@ -509,7 +509,7 @@
     "timeMonth": 1555,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2022-07-21": 978,
+      "2022-07-21": 990,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
@@ -570,10 +570,10 @@
     "icon": "https://favicons.githubusercontent.com/www.difesa.it",
     "slug": "difesa",
     "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "55.58%",
-    "uptimeWeek": "66.19%",
-    "uptimeMonth": "92.22%",
+    "uptime": "99.47%",
+    "uptimeDay": "57.07%",
+    "uptimeWeek": "66.02%",
+    "uptimeMonth": "92.18%",
     "uptimeYear": "99.35%",
     "time": 3938,
     "timeDay": 2566,
@@ -581,13 +581,13 @@
     "timeMonth": 2507,
     "timeYear": 3872,
     "dailyMinutesDown": {
-      "2022-07-21": 452,
+      "2022-07-21": 443,
       "2022-07-20": 559,
       "2022-07-19": 621,
       "2022-07-18": 427,
       "2022-07-17": 577,
       "2022-07-16": 497,
-      "2022-07-15": 277
+      "2022-07-15": 304
     }
   },
   {
@@ -678,18 +678,19 @@
     "url": "https://www.mur.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.mur.gov.it",
     "slug": "universita-e-ricerca-mur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 1485,
-    "timeDay": 667,
-    "timeWeek": 1034,
-    "timeMonth": 1067,
+    "timeDay": 664,
+    "timeWeek": 1023,
+    "timeMonth": 1065,
     "timeYear": 1477,
     "dailyMinutesDown": {
+      "2022-07-21": 2,
       "2022-07-15": 23,
       "2022-07-14": 2,
       "2022-07-08": 17,
@@ -764,8 +765,7 @@
       "2021-12-11": 22,
       "2021-12-09": 22,
       "2021-12-08": 17,
-      "2021-12-07": 50,
-      "2021-12-01": 17
+      "2021-12-07": 50
     }
   },
   {
@@ -827,11 +827,11 @@
     "uptimeYear": "53.28%",
     "time": 4088,
     "timeDay": 3788,
-    "timeWeek": 3872,
+    "timeWeek": 3932,
     "timeMonth": 3433,
     "timeYear": 4220,
     "dailyMinutesDown": {
-      "2022-07-21": 979,
+      "2022-07-21": 991,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
@@ -1071,7 +1071,7 @@
     "timeMonth": 0,
     "timeYear": 1347,
     "dailyMinutesDown": {
-      "2022-07-21": 979,
+      "2022-07-21": 991,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
