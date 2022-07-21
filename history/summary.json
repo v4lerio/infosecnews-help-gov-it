@@ -65,7 +65,7 @@
     "timeDay": 3191,
     "timeWeek": 2777,
     "timeMonth": 2843,
-    "timeYear": 6920,
+    "timeYear": 6919,
     "dailyMinutesDown": {
       "2022-06-24": 15,
       "2022-05-26": 17,
@@ -150,7 +150,7 @@
     "timeMonth": 7411,
     "timeYear": 6082,
     "dailyMinutesDown": {
-      "2022-07-21": 1165,
+      "2022-07-21": 1171,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1429,
@@ -498,7 +498,7 @@
     "icon": "https://favicons.githubusercontent.com/www.interno.gov.it",
     "slug": "interno",
     "status": "down",
-    "uptime": "89.07%",
+    "uptime": "89.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -509,7 +509,7 @@
     "timeMonth": 1555,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2022-07-21": 1166,
+      "2022-07-21": 1172,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
@@ -569,25 +569,25 @@
     "url": "https://www.difesa.it/",
     "icon": "https://favicons.githubusercontent.com/www.difesa.it",
     "slug": "difesa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "58.20%",
-    "uptimeWeek": "66.01%",
-    "uptimeMonth": "92.18%",
+    "uptimeDay": "58.04%",
+    "uptimeWeek": "66.14%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "99.35%",
-    "time": 3945,
+    "time": 3938,
     "timeDay": 2582,
     "timeWeek": 2454,
     "timeMonth": 2508,
     "timeYear": 3869,
     "dailyMinutesDown": {
-      "2022-07-21": 513,
+      "2022-07-21": 515,
       "2022-07-20": 559,
       "2022-07-19": 621,
       "2022-07-18": 427,
       "2022-07-17": 577,
       "2022-07-16": 497,
-      "2022-07-15": 235
+      "2022-07-15": 220
     }
   },
   {
@@ -831,7 +831,7 @@
     "timeMonth": 3455,
     "timeYear": 4219,
     "dailyMinutesDown": {
-      "2022-07-21": 1167,
+      "2022-07-21": 1172,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
@@ -1071,7 +1071,7 @@
     "timeMonth": 0,
     "timeYear": 1347,
     "dailyMinutesDown": {
-      "2022-07-21": 1167,
+      "2022-07-21": 1172,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
@@ -1204,7 +1204,7 @@
     "timeMonth": 2007,
     "timeYear": 2509,
     "dailyMinutesDown": {
-      "2022-07-21": 395,
+      "2022-07-21": 401,
       "2022-07-20": 657,
       "2022-07-19": 677,
       "2022-07-18": 673,
