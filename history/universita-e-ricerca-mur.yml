@@ -1,7 +1,7 @@
 url: https://www.mur.gov.it/
-status: degraded
-code: 522
-responseTime: 16097
-lastUpdated: 2022-07-27T14:41:08.058Z
+status: up
+code: 200
+responseTime: 53
+lastUpdated: 2022-07-27T14:51:59.997Z
 startTime: Mon Apr 26 2021 11:39:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
