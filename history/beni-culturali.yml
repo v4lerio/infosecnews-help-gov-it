@@ -1,7 +1,7 @@
 url: https://www.beniculturali.it/
-status: up
-code: 200
-responseTime: 1263
-lastUpdated: 2022-08-02T05:00:06.765Z
+status: down
+code: 503
+responseTime: 662
+lastUpdated: 2022-08-02T08:45:12.364Z
 startTime: Mon Apr 26 2021 13:53:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
