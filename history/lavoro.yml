@@ -1,7 +1,7 @@
 url: https://www.lavoro.gov.it/
-status: degraded
+status: up
 code: 200
-responseTime: 23009
-lastUpdated: 2022-08-13T05:50:01.969Z
+responseTime: 760
+lastUpdated: 2022-08-13T05:55:15.937Z
 startTime: Mon Apr 26 2021 11:32:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
