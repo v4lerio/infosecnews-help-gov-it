@@ -142,7 +142,7 @@
     "timeMonth": 9513,
     "timeYear": 6315,
     "dailyMinutesDown": {
-      "2022-08-22": 642,
+      "2022-08-22": 651,
       "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
@@ -449,7 +449,7 @@
     "uptime": "93.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.79%",
+    "uptimeMonth": "80.81%",
     "uptimeYear": "91.15%",
     "time": 3121,
     "timeDay": 0,
@@ -538,7 +538,7 @@
     "timeMonth": 1801,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2022-08-22": 643,
+      "2022-08-22": 651,
       "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
@@ -630,11 +630,11 @@
     "url": "https://www.difesa.it/",
     "icon": "https://favicons.githubusercontent.com/www.difesa.it",
     "slug": "difesa",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "91.30%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "86.24%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "99.28%",
     "time": 3711,
     "timeDay": 1620,
@@ -642,7 +642,7 @@
     "timeMonth": 2713,
     "timeYear": 3593,
     "dailyMinutesDown": {
-      "2022-08-22": 196,
+      "2022-08-22": 198,
       "2022-08-15": 15,
       "2022-08-13": 29,
       "2022-08-12": 25,
@@ -656,7 +656,7 @@
       "2022-07-27": 582,
       "2022-07-26": 556,
       "2022-07-25": 723,
-      "2022-07-24": 332
+      "2022-07-24": 296
     }
   },
   {
@@ -896,14 +896,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.01%",
-    "uptimeYear": "44.77%",
+    "uptimeYear": "44.76%",
     "time": 4077,
     "timeDay": 5599,
     "timeWeek": 3717,
     "timeMonth": 3449,
     "timeYear": 4260,
     "dailyMinutesDown": {
-      "2022-08-22": 643,
+      "2022-08-22": 652,
       "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
@@ -1167,7 +1167,7 @@
     "timeMonth": 0,
     "timeYear": 1351,
     "dailyMinutesDown": {
-      "2022-08-22": 644,
+      "2022-08-22": 653,
       "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
