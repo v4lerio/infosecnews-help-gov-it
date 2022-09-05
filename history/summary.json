@@ -56,7 +56,7 @@
     "timeDay": 2533,
     "timeWeek": 2409,
     "timeMonth": 2419,
-    "timeYear": 7053,
+    "timeYear": 7055,
     "dailyMinutesDown": {
       "2022-06-24": 15,
       "2022-05-26": 17,
@@ -140,7 +140,7 @@
     "timeMonth": 9608,
     "timeYear": 6138,
     "dailyMinutesDown": {
-      "2022-09-05": 690,
+      "2022-09-05": 696,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
@@ -549,7 +549,7 @@
     "timeMonth": 2190,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2022-09-05": 690,
+      "2022-09-05": 696,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
@@ -655,19 +655,19 @@
     "url": "https://www.difesa.it/",
     "icon": "https://favicons.githubusercontent.com/www.difesa.it",
     "slug": "difesa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "97.13%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "97.12%",
     "uptimeYear": "99.27%",
-    "time": 3640,
+    "time": 3641,
     "timeDay": 2255,
     "timeWeek": 4714,
     "timeMonth": 3441,
     "timeYear": 3544,
     "dailyMinutesDown": {
-      "2022-09-05": 56,
+      "2022-09-05": 58,
       "2022-09-02": 51,
       "2022-08-26": 56,
       "2022-08-23": 230,
@@ -684,7 +684,7 @@
       "2022-07-28": 253,
       "2022-07-27": 582,
       "2022-07-26": 556,
-      "2022-07-25": 435
+      "2022-07-25": 414
     }
   },
   {
@@ -787,7 +787,7 @@
     "time": 1467,
     "timeDay": 2290,
     "timeWeek": 1024,
-    "timeMonth": 1094,
+    "timeMonth": 1093,
     "timeYear": 1441,
     "dailyMinutesDown": {
       "2022-09-02": 18,
@@ -937,7 +937,7 @@
     "timeMonth": 3732,
     "timeYear": 4266,
     "dailyMinutesDown": {
-      "2022-09-05": 691,
+      "2022-09-05": 697,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
@@ -1215,7 +1215,7 @@
     "timeMonth": 0,
     "timeYear": 1322,
     "dailyMinutesDown": {
-      "2022-09-05": 691,
+      "2022-09-05": 697,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
