@@ -56,7 +56,7 @@
     "timeDay": 2020,
     "timeWeek": 2487,
     "timeMonth": 2393,
-    "timeYear": 6759,
+    "timeYear": 6760,
     "dailyMinutesDown": {
       "2022-06-24": 15,
       "2022-05-26": 17,
@@ -140,7 +140,7 @@
     "timeMonth": 9408,
     "timeYear": 6263,
     "dailyMinutesDown": {
-      "2022-09-15": 1312,
+      "2022-09-15": 1318,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -558,7 +558,7 @@
     "timeMonth": 2449,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2022-09-15": 1312,
+      "2022-09-15": 1318,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -674,19 +674,19 @@
     "url": "https://www.difesa.it/",
     "icon": "https://favicons.githubusercontent.com/www.difesa.it",
     "slug": "difesa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "85.14%",
-    "uptimeWeek": "96.24%",
+    "uptimeDay": "84.99%",
+    "uptimeWeek": "96.22%",
     "uptimeMonth": "96.74%",
-    "uptimeYear": "99.29%",
-    "time": 3623,
+    "uptimeYear": "99.30%",
+    "time": 3624,
     "timeDay": 2577,
     "timeWeek": 3105,
     "timeMonth": 3001,
     "timeYear": 3486,
     "dailyMinutesDown": {
-      "2022-09-15": 214,
+      "2022-09-15": 216,
       "2022-09-12": 123,
       "2022-09-09": 43,
       "2022-09-08": 39,
@@ -707,7 +707,7 @@
       "2022-07-29": 183,
       "2022-07-28": 253,
       "2022-07-27": 582,
-      "2022-07-26": 274
+      "2022-07-26": 258
     }
   },
   {
@@ -808,7 +808,7 @@
     "uptimeMonth": "98.08%",
     "uptimeYear": "99.46%",
     "time": 1464,
-    "timeDay": 1245,
+    "timeDay": 1640,
     "timeWeek": 1447,
     "timeMonth": 1184,
     "timeYear": 1436,
@@ -961,7 +961,7 @@
     "timeMonth": 3824,
     "timeYear": 4292,
     "dailyMinutesDown": {
-      "2022-09-15": 1313,
+      "2022-09-15": 1319,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -1234,7 +1234,7 @@
     "icon": "https://favicons.githubusercontent.com/www.mite.gov.it",
     "slug": "ambiente",
     "status": "down",
-    "uptime": "65.70%",
+    "uptime": "65.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1245,7 +1245,7 @@
     "timeMonth": 0,
     "timeYear": 1322,
     "dailyMinutesDown": {
-      "2022-09-15": 1313,
+      "2022-09-15": 1319,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -1431,7 +1431,7 @@
     "timeMonth": 1960,
     "timeYear": 2504,
     "dailyMinutesDown": {
-      "2022-09-15": 530,
+      "2022-09-15": 536,
       "2022-09-14": 668,
       "2022-09-13": 686,
       "2022-09-12": 692,
