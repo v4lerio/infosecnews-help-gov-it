@@ -140,7 +140,7 @@
     "timeMonth": 9076,
     "timeYear": 6290,
     "dailyMinutesDown": {
-      "2022-09-19": 705,
+      "2022-09-19": 722,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
@@ -562,7 +562,7 @@
     "timeMonth": 2474,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2022-09-19": 705,
+      "2022-09-19": 722,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
@@ -748,10 +748,10 @@
     "icon": "https://favicons.githubusercontent.com/www.mise.gov.it",
     "slug": "sviluppo-economico",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptime": "99.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.11%",
     "time": 6039,
     "timeDay": 3684,
@@ -759,7 +759,6 @@
     "timeMonth": 2514,
     "timeYear": 6292,
     "dailyMinutesDown": {
-      "2022-09-19": 7,
       "2022-09-14": 23,
       "2022-07-26": 19,
       "2022-07-25": 45,
@@ -802,7 +801,8 @@
       "2022-03-03": 127,
       "2022-03-02": 135,
       "2022-02-03": 20,
-      "2022-02-01": 24
+      "2022-02-01": 24,
+      "2021-11-29": 25
     }
   },
   {
@@ -810,18 +810,19 @@
     "url": "https://www.mur.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.mur.gov.it",
     "slug": "universita-e-ricerca-mur",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "99.46%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "99.47%",
     "time": 1462,
-    "timeDay": 889,
-    "timeWeek": 1376,
-    "timeMonth": 1168,
+    "timeDay": 829,
+    "timeWeek": 1355,
+    "timeMonth": 1166,
     "timeYear": 1434,
     "dailyMinutesDown": {
+      "2022-09-19": 2,
       "2022-09-16": 15,
       "2022-09-14": 26,
       "2022-09-12": 19,
@@ -902,8 +903,7 @@
       "2022-01-17": 24,
       "2022-01-15": 65,
       "2022-01-14": 40,
-      "2022-01-11": 15,
-      "2022-01-10": 29
+      "2022-01-11": 15
     }
   },
   {
@@ -919,7 +919,7 @@
     "uptimeYear": "97.01%",
     "time": 3138,
     "timeDay": 345,
-    "timeWeek": 1048,
+    "timeWeek": 1094,
     "timeMonth": 2121,
     "timeYear": 3015,
     "dailyMinutesDown": {
@@ -963,14 +963,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.11%",
+    "uptimeYear": "37.10%",
     "time": 4144,
     "timeDay": 3652,
     "timeWeek": 3677,
     "timeMonth": 3843,
     "timeYear": 4300,
     "dailyMinutesDown": {
-      "2022-09-19": 707,
+      "2022-09-19": 723,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
@@ -1257,7 +1257,7 @@
     "timeMonth": 0,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2022-09-19": 707,
+      "2022-09-19": 723,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
