@@ -139,7 +139,7 @@
     "timeMonth": 9150,
     "timeYear": 6322,
     "dailyMinutesDown": {
-      "2022-09-21": 908,
+      "2022-09-21": 931,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -552,7 +552,7 @@
     "icon": "https://favicons.githubusercontent.com/www.interno.gov.it",
     "slug": "interno",
     "status": "down",
-    "uptime": "78.34%",
+    "uptime": "78.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -563,7 +563,7 @@
     "timeMonth": 2522,
     "timeYear": 1359,
     "dailyMinutesDown": {
-      "2022-09-21": 909,
+      "2022-09-21": 931,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -685,18 +685,19 @@
     "url": "https://www.difesa.it/",
     "icon": "https://favicons.githubusercontent.com/www.difesa.it",
     "slug": "difesa",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.77%",
-    "uptimeMonth": "95.80%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "93.75%",
+    "uptimeMonth": "95.79%",
     "uptimeYear": "99.24%",
-    "time": 3603,
-    "timeDay": 0,
-    "timeWeek": 2361,
-    "timeMonth": 2753,
-    "timeYear": 3464,
+    "time": 3609,
+    "timeDay": 12242,
+    "timeWeek": 2690,
+    "timeMonth": 2818,
+    "timeYear": 3469,
     "dailyMinutesDown": {
+      "2022-09-21": 2,
       "2022-09-20": 20,
       "2022-09-16": 375,
       "2022-09-15": 233,
@@ -720,7 +721,7 @@
       "2022-07-29": 183,
       "2022-07-28": 253,
       "2022-07-27": 582,
-      "2022-07-26": 158
+      "2022-07-26": 140
     }
   },
   {
@@ -975,7 +976,7 @@
     "timeMonth": 3967,
     "timeYear": 4319,
     "dailyMinutesDown": {
-      "2022-09-21": 910,
+      "2022-09-21": 932,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -1263,7 +1264,7 @@
     "timeMonth": 0,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2022-09-21": 910,
+      "2022-09-21": 932,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
