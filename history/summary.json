@@ -127,7 +127,7 @@
     "url": "https://www.esteri.it/",
     "icon": "https://favicons.githubusercontent.com/www.esteri.it",
     "slug": "esteri",
-    "status": "degraded",
+    "status": "down",
     "uptime": "37.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -139,7 +139,7 @@
     "timeMonth": 9157,
     "timeYear": 6321,
     "dailyMinutesDown": {
-      "2022-09-21": 885,
+      "2022-09-21": 894,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -563,7 +563,7 @@
     "timeMonth": 2522,
     "timeYear": 1359,
     "dailyMinutesDown": {
-      "2022-09-21": 885,
+      "2022-09-21": 895,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -975,7 +975,7 @@
     "timeMonth": 3977,
     "timeYear": 4320,
     "dailyMinutesDown": {
-      "2022-09-21": 886,
+      "2022-09-21": 896,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -1263,7 +1263,7 @@
     "timeMonth": 0,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2022-09-21": 886,
+      "2022-09-21": 896,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
