@@ -50,7 +50,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 5581,
     "timeDay": 3247,
     "timeWeek": 2411,
@@ -73,8 +73,7 @@
       "2021-10-02": 18,
       "2021-10-01": 47,
       "2021-09-30": 218,
-      "2021-09-29": 961,
-      "2021-09-28": 1043
+      "2021-09-29": 961
     }
   },
   {
@@ -138,7 +137,8 @@
     "timeMonth": 8797,
     "timeYear": 6452,
     "dailyMinutesDown": {
-      "2022-09-27": 1436,
+      "2022-09-28": 6,
+      "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
@@ -568,7 +568,8 @@
     "timeMonth": 2484,
     "timeYear": 1415,
     "dailyMinutesDown": {
-      "2022-09-27": 1436,
+      "2022-09-28": 6,
+      "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
@@ -828,10 +829,10 @@
     "icon": "https://favicons.githubusercontent.com/www.mur.gov.it",
     "slug": "universita-e-ricerca-mur",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "97.85%",
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "97.87%",
     "uptimeYear": "99.44%",
     "time": 1459,
     "timeDay": 1224,
@@ -839,7 +840,6 @@
     "timeMonth": 1210,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2022-09-27": 10,
       "2022-09-26": 17,
       "2022-09-25": 57,
       "2022-09-24": 83,
@@ -921,7 +921,8 @@
       "2022-02-07": 46,
       "2022-02-05": 17,
       "2022-02-02": 27,
-      "2022-01-28": 21
+      "2022-01-28": 21,
+      "2022-01-26": 23
     }
   },
   {
@@ -977,19 +978,20 @@
     "url": "https://www.mit.gov.it/",
     "icon": "https://favicons.githubusercontent.com/www.mit.gov.it",
     "slug": "infrastrutture-e-trasporti",
-    "status": "down",
+    "status": "degraded",
     "uptime": "53.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.87%",
+    "uptimeYear": "34.86%",
     "time": 4324,
-    "timeDay": 5153,
-    "timeWeek": 4907,
-    "timeMonth": 4525,
-    "timeYear": 4413,
+    "timeDay": 5225,
+    "timeWeek": 4916,
+    "timeMonth": 4531,
+    "timeYear": 4415,
     "dailyMinutesDown": {
-      "2022-09-27": 1437,
+      "2022-09-28": 7,
+      "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
@@ -1278,7 +1280,8 @@
     "timeMonth": 0,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2022-09-27": 1437,
+      "2022-09-28": 8,
+      "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
@@ -1464,7 +1467,7 @@
     "icon": "https://favicons.githubusercontent.com/www.beniculturali.it",
     "slug": "beni-culturali",
     "status": "down",
-    "uptime": "91.48%",
+    "uptime": "91.47%",
     "uptimeDay": "52.55%",
     "uptimeWeek": "51.93%",
     "uptimeMonth": "52.19%",
@@ -1475,7 +1478,8 @@
     "timeMonth": 3929,
     "timeYear": 2690,
     "dailyMinutesDown": {
-      "2022-09-27": 680,
+      "2022-09-28": 8,
+      "2022-09-27": 683,
       "2022-09-26": 659,
       "2022-09-25": 663,
       "2022-09-24": 736,
