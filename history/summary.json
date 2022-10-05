@@ -135,7 +135,7 @@
     "timeMonth": 8927,
     "timeYear": 6618,
     "dailyMinutesDown": {
-      "2022-10-05": 1324,
+      "2022-10-05": 1343,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -573,7 +573,7 @@
     "timeMonth": 2553,
     "timeYear": 1452,
     "dailyMinutesDown": {
-      "2022-10-05": 1324,
+      "2022-10-05": 1343,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -711,9 +711,9 @@
     "slug": "difesa",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "97.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "97.82%",
     "uptimeYear": "99.24%",
     "time": 3621,
     "timeDay": 4226,
@@ -721,7 +721,6 @@
     "timeMonth": 3777,
     "timeYear": 3432,
     "dailyMinutesDown": {
-      "2022-10-05": 6,
       "2022-10-04": 24,
       "2022-09-26": 47,
       "2022-09-20": 20,
@@ -747,7 +746,7 @@
       "2022-07-29": 183,
       "2022-07-28": 253,
       "2022-07-27": 582,
-      "2022-07-26": 71
+      "2022-07-26": 96
     }
   },
   {
@@ -994,19 +993,19 @@
     "url": "https://www.mit.gov.it/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mit.gov.it.ico",
     "slug": "infrastrutture-e-trasporti",
-    "status": "down",
-    "uptime": "52.71%",
+    "status": "degraded",
+    "uptime": "52.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "32.84%",
-    "time": 4485,
-    "timeDay": 5221,
-    "timeWeek": 5529,
-    "timeMonth": 4999,
+    "time": 4486,
+    "timeDay": 5227,
+    "timeWeek": 5530,
+    "timeMonth": 5000,
     "timeYear": 4573,
     "dailyMinutesDown": {
-      "2022-10-05": 1325,
+      "2022-10-05": 1343,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -1301,7 +1300,7 @@
     "timeMonth": 0,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2022-10-05": 1325,
+      "2022-10-05": 1344,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -1506,7 +1505,7 @@
     "timeMonth": 4022,
     "timeYear": 2686,
     "dailyMinutesDown": {
-      "2022-10-05": 550,
+      "2022-10-05": 569,
       "2022-10-04": 662,
       "2022-10-03": 665,
       "2022-10-02": 681,
