@@ -135,7 +135,7 @@
     "timeMonth": 8927,
     "timeYear": 6619,
     "dailyMinutesDown": {
-      "2022-10-05": 1376,
+      "2022-10-05": 1383,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -573,7 +573,7 @@
     "timeMonth": 2553,
     "timeYear": 1452,
     "dailyMinutesDown": {
-      "2022-10-05": 1376,
+      "2022-10-05": 1383,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -779,19 +779,19 @@
     "url": "https://www.mise.gov.it/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mise.gov.it.ico",
     "slug": "sviluppo-economico",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.39%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "96.78%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "99.12%",
-    "time": 6153,
-    "timeDay": 6064,
-    "timeWeek": 5380,
-    "timeMonth": 5115,
-    "timeYear": 6226,
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "96.75%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.13%",
+    "time": 6157,
+    "timeDay": 6160,
+    "timeWeek": 5417,
+    "timeMonth": 5136,
+    "timeYear": 6227,
     "dailyMinutesDown": {
-      "2022-10-05": 63,
+      "2022-10-05": 65,
       "2022-10-04": 146,
       "2022-10-03": 21,
       "2022-09-30": 73,
@@ -835,7 +835,7 @@
       "2022-03-25": 531,
       "2022-03-24": 585,
       "2022-03-23": 446,
-      "2022-03-22": 252
+      "2022-03-22": 231
     }
   },
   {
@@ -851,7 +851,7 @@
     "uptimeYear": "99.41%",
     "time": 1458,
     "timeDay": 908,
-    "timeWeek": 1317,
+    "timeWeek": 1290,
     "timeMonth": 1309,
     "timeYear": 1428,
     "dailyMinutesDown": {
@@ -1001,11 +1001,11 @@
     "uptimeYear": "32.83%",
     "time": 4492,
     "timeDay": 5399,
-    "timeWeek": 5544,
+    "timeWeek": 5555,
     "timeMonth": 5006,
     "timeYear": 4575,
     "dailyMinutesDown": {
-      "2022-10-05": 1377,
+      "2022-10-05": 1384,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -1300,7 +1300,7 @@
     "timeMonth": 0,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2022-10-05": 1377,
+      "2022-10-05": 1384,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -1505,7 +1505,7 @@
     "timeMonth": 4022,
     "timeYear": 2686,
     "dailyMinutesDown": {
-      "2022-10-05": 602,
+      "2022-10-05": 609,
       "2022-10-04": 662,
       "2022-10-03": 665,
       "2022-10-02": 681,
