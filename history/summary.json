@@ -134,7 +134,7 @@
     "timeMonth": 8908,
     "timeYear": 6599,
     "dailyMinutesDown": {
-      "2022-10-05": 3,
+      "2022-10-05": 28,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -561,7 +561,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.interno.gov.it.ico",
     "slug": "interno",
     "status": "down",
-    "uptime": "76.35%",
+    "uptime": "76.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -572,7 +572,7 @@
     "timeMonth": 2468,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2022-10-05": 4,
+      "2022-10-05": 29,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -779,7 +779,7 @@
     "slug": "sviluppo-economico",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "89.98%",
+    "uptimeDay": "91.72%",
     "uptimeWeek": "96.49%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.12%",
@@ -1002,7 +1002,7 @@
     "timeMonth": 4966,
     "timeYear": 4550,
     "dailyMinutesDown": {
-      "2022-10-05": 4,
+      "2022-10-05": 29,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -1297,7 +1297,7 @@
     "timeMonth": 0,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2022-10-05": 4,
+      "2022-10-05": 30,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
@@ -1502,7 +1502,7 @@
     "timeMonth": 4018,
     "timeYear": 2687,
     "dailyMinutesDown": {
-      "2022-10-05": 4,
+      "2022-10-05": 30,
       "2022-10-04": 662,
       "2022-10-03": 665,
       "2022-10-02": 681,
