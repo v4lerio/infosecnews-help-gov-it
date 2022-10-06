@@ -1,7 +1,7 @@
 url: https://www.interno.gov.it/
-status: down
+status: degraded
 code: 403
-responseTime: 850
-lastUpdated: 2022-10-06T08:20:26.571Z
+responseTime: 5031
+lastUpdated: 2022-10-06T10:09:27.024Z
 startTime: Mon Apr 26 2021 11:23:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
