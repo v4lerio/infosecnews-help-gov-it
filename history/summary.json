@@ -133,7 +133,7 @@
     "timeMonth": 8881,
     "timeYear": 6788,
     "dailyMinutesDown": {
-      "2022-10-10": 1067,
+      "2022-10-10": 1082,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
@@ -495,7 +495,7 @@
     "timeDay": 1232,
     "timeWeek": 2816,
     "timeMonth": 2087,
-    "timeYear": 3310,
+    "timeYear": 3314,
     "dailyMinutesDown": {
       "2022-10-08": 141,
       "2022-08-03": 47,
@@ -574,7 +574,7 @@
     "timeMonth": 2558,
     "timeYear": 1492,
     "dailyMinutesDown": {
-      "2022-10-10": 1067,
+      "2022-10-10": 1082,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
@@ -1001,14 +1001,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.53%",
+    "uptimeYear": "31.52%",
     "time": 4568,
-    "timeDay": 5109,
+    "timeDay": 5172,
     "timeWeek": 5345,
     "timeMonth": 5075,
     "timeYear": 4625,
     "dailyMinutesDown": {
-      "2022-10-10": 1068,
+      "2022-10-10": 1082,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
@@ -1307,7 +1307,7 @@
     "timeMonth": 0,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2022-10-10": 1068,
+      "2022-10-10": 1083,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
@@ -1505,19 +1505,19 @@
     "url": "https://www.beniculturali.it/",
     "icon": "https://icons.duckduckgo.com/ip3/www.beniculturali.it.ico",
     "slug": "beni-culturali",
-    "status": "up",
-    "uptime": "91.63%",
+    "status": "down",
+    "uptime": "91.72%",
     "uptimeDay": "54.23%",
-    "uptimeWeek": "53.95%",
+    "uptimeWeek": "53.94%",
     "uptimeMonth": "53.84%",
-    "uptimeYear": "87.80%",
-    "time": 2544,
+    "uptimeYear": "87.93%",
+    "time": 2546,
     "timeDay": 1958,
     "timeWeek": 2107,
     "timeMonth": 4034,
     "timeYear": 2689,
     "dailyMinutesDown": {
-      "2022-10-10": 300,
+      "2022-10-10": 301,
       "2022-10-09": 665,
       "2022-10-08": 670,
       "2022-10-07": 665,
@@ -1612,8 +1612,7 @@
       "2022-07-10": 659,
       "2022-07-09": 659,
       "2022-07-08": 655,
-      "2022-07-07": 670,
-      "2022-07-06": 354
+      "2022-07-07": 357
     }
   }
 ]
