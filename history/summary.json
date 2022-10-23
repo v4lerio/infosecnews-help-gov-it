@@ -126,9 +126,9 @@
     "timeDay": 8722,
     "timeWeek": 7833,
     "timeMonth": 8949,
-    "timeYear": 7361,
+    "timeYear": 7362,
     "dailyMinutesDown": {
-      "2022-10-23": 980,
+      "2022-10-23": 995,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1431,
@@ -572,7 +572,7 @@
     "timeMonth": 2539,
     "timeYear": 1602,
     "dailyMinutesDown": {
-      "2022-10-23": 980,
+      "2022-10-23": 995,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1440,
@@ -798,18 +798,19 @@
     "url": "https://www.mise.gov.it/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mise.gov.it.ico",
     "slug": "sviluppo-economico",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.75%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "93.73%",
     "uptimeMonth": "95.47%",
     "uptimeYear": "99.43%",
-    "time": 6134,
-    "timeDay": 3426,
-    "timeWeek": 5919,
-    "timeMonth": 5636,
-    "timeYear": 6164,
+    "time": 6125,
+    "timeDay": 5634,
+    "timeWeek": 5940,
+    "timeMonth": 5643,
+    "timeYear": 6165,
     "dailyMinutesDown": {
+      "2022-10-23": 1,
       "2022-10-21": 69,
       "2022-10-20": 25,
       "2022-10-19": 89,
@@ -848,7 +849,7 @@
       "2022-05-19": 17,
       "2022-05-18": 19,
       "2022-05-12": 46,
-      "2022-05-11": 381
+      "2022-05-11": 354
     }
   },
   {
@@ -1012,7 +1013,7 @@
     "timeMonth": 5034,
     "timeYear": 4608,
     "dailyMinutesDown": {
-      "2022-10-23": 981,
+      "2022-10-23": 995,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1440,
@@ -1323,7 +1324,7 @@
     "timeMonth": 0,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2022-10-23": 981,
+      "2022-10-23": 996,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1440,
